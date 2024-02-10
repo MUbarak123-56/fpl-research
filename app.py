@@ -27,7 +27,7 @@ st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes da
 st.markdown("<h5 style='text-align: left; color: white;'>We analyzed team results to make prediction on the outcome of future games. We used the players' scores"
     " from the fantasy premier league app to visualize the ability of each player from the start to the end of each season (2021-2024).</h5>", unsafe_allow_html=True)
 #new_data = data_load()
-st.dataframe(df.head())
+#st.dataframe(df.head())
     
 
 #if __name__ == '__main__':
