@@ -51,8 +51,11 @@ st.write("Here, we showcase an animation of the accumulative points from the FPL
 
 # References Section
 st.header("References")
-st.markdown("""The data used in this analysis were sourced from the following:
-- Premier League game and player performance data: [Excel For Soccer](https://www.excel4soccer.com/download/)""")
+st.markdown("""
+    The data used in this analysis were sourced from the following:
+    - Premier League game and player performance data: [Excel For Soccer](https://www.excel4soccer.com/download/)
+    - Fantasy Premier League data and analysis: [Fantasy-Premier-League on GitHub](https://github.com/vaastav/Fantasy-Premier-League)
+    """)
 st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes data from the English Premier League Soccer. We used both actual teams results and"
     + "the data from the fantasy premier league app(FPL).</h5>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: left; color: white;'>We analyzed team results to make prediction on the outcome of future games. We used the players' scores"
