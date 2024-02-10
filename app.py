@@ -13,7 +13,7 @@ import time
 
 @st.cache_data()
 def data_load():
-    df = pd.read_excel("../data/fpl_data/full_df.xlsx")
+    df = pd.read_excel("data/fpl_data/full_df.xlsx")
     return df
 
 def run():
