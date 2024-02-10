@@ -6,3 +6,4 @@ numpy==1.23.1
 pandas
 openpyxl
 st_pages
+langchain==0.0.239
