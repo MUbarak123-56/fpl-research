@@ -11,10 +11,11 @@ import pandas as pd
 
 import time
 
-@st.cache_data()
-def data_load():
-    df = pd.read_excel("data/fpl_data/full_df.xlsx")
-    return df
+st.image("fpl_icon.png", width = 100)
+#@st.cache_data()
+#def data_load():
+df = pd.read_excel("data/fpl_data/full_df.xlsx")
+ #   return df
 
 
 st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
@@ -25,8 +26,8 @@ st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes da
     + "the data from the fantasy premier league app(FPL).</h5>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: left; color: white;'>We analyzed team results to make prediction on the outcome of future games. We used the players' scores"
     " from the fantasy premier league app to visualize the ability of each player from the start to the end of each season (2021-2024).</h5>", unsafe_allow_html=True)
-new_data = data_load()
-st.dataframe(new_data.head())
+#new_data = data_load()
+st.dataframe(df.head())
     
 
 #if __name__ == '__main__':
