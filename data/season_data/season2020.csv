@@ -1,0 +1,775 @@
+"","player_name","position","date_of_birth","age","nationality","club_name","league_name","season","year"
+"1","Ederson","Goalkeeper","1993-08-17",25,"Brazil","Manchester City","Premier League","2019/2020",2019
+"2","Arijanet Muric","Goalkeeper","1998-11-07",20,"Kosovo","Manchester City","Premier League","2019/2020",2019
+"3","Claudio Bravo","Goalkeeper","1983-04-13",36,"Chile","Manchester City","Premier League","2019/2020",2019
+"4","Scott Carson","Goalkeeper","1985-09-03",33,"England","Manchester City","Premier League","2019/2020",2019
+"5","Aymeric Laporte","Centre-Back","1994-05-27",25,"France","Manchester City","Premier League","2019/2020",2019
+"6","John Stones","Centre-Back","1994-05-28",25,"England","Manchester City","Premier League","2019/2020",2019
+"7","Nicolás Otamendi","Centre-Back","1988-02-12",31,"Argentina","Manchester City","Premier League","2019/2020",2019
+"8","Eric García","Centre-Back","2001-01-09",18,"Spain","Manchester City","Premier League","2019/2020",2019
+"9","Tosin Adarabioyo","Centre-Back","1997-09-24",21,"England","Manchester City","Premier League","2019/2020",2019
+"10","Taylor Harwood-Bellis","Centre-Back","2002-01-30",17,"England","Manchester City","Premier League","2019/2020",2019
+"11","Benjamin Mendy","Left-Back","1994-07-17",24,"France","Manchester City","Premier League","2019/2020",2019
+"12","Oleksandr Zinchenko","Left-Back","1996-12-15",22,"Ukraine","Manchester City","Premier League","2019/2020",2019
+"13","Angeliño","Left-Back","1997-01-04",22,"Spain","Manchester City","Premier League","2019/2020",2019
+"14","Kyle Walker","Right-Back","1990-05-28",29,"England","Manchester City","Premier League","2019/2020",2019
+"15","João Cancelo","Right-Back","1994-05-27",25,"Portugal","Manchester City","Premier League","2019/2020",2019
+"16","Alpha Dionkou","Right-Back","2001-10-10",17,"Senegal","Manchester City","Premier League","2019/2020",2019
+"17","Rodri","Defensive Midfield","1996-06-22",23,"Spain","Manchester City","Premier League","2019/2020",2019
+"18","Fernandinho","Defensive Midfield","1985-05-04",34,"Brazil","Manchester City","Premier League","2019/2020",2019
+"19","Ilkay Gündogan","Central Midfield","1990-10-24",28,"Germany","Manchester City","Premier League","2019/2020",2019
+"20","Phil Foden","Central Midfield","2000-05-28",19,"England","Manchester City","Premier League","2019/2020",2019
+"21","Tommy Doyle","Central Midfield","2001-10-17",17,"England","Manchester City","Premier League","2019/2020",2019
+"22","Kevin De Bruyne","Attacking Midfield","1991-06-28",28,"Belgium","Manchester City","Premier League","2019/2020",2019
+"23","David Silva","Attacking Midfield","1986-01-08",33,"Spain","Manchester City","Premier League","2019/2020",2019
+"24","Adrián Bernabé","Attacking Midfield","2001-05-26",18,"Spain","Manchester City","Premier League","2019/2020",2019
+"25","Ryotaro Meshino","Attacking Midfield","1998-06-18",21,"Japan","Manchester City","Premier League","2019/2020",2019
+"26","Cole Palmer","Attacking Midfield","2002-05-06",17,"England","Manchester City","Premier League","2019/2020",2019
+"27","Raheem Sterling","Left Winger","1994-12-08",24,"England","Manchester City","Premier League","2019/2020",2019
+"28","Leroy Sané","Left Winger","1996-01-11",23,"Germany","Manchester City","Premier League","2019/2020",2019
+"29","Bernardo Silva","Right Winger","1994-08-10",24,"Portugal","Manchester City","Premier League","2019/2020",2019
+"30","Riyad Mahrez","Right Winger","1991-02-21",28,"Algeria","Manchester City","Premier League","2019/2020",2019
+"31","Patrick Roberts","Right Winger","1997-02-05",22,"England","Manchester City","Premier League","2019/2020",2019
+"32","Ian Poveda","Right Winger","2000-02-09",19,"England","Manchester City","Premier League","2019/2020",2019
+"33","Gabriel Jesus","Centre-Forward","1997-04-03",22,"Brazil","Manchester City","Premier League","2019/2020",2019
+"34","Sergio Agüero","Centre-Forward","1988-06-02",31,"Argentina","Manchester City","Premier League","2019/2020",2019
+"35","Alisson","Goalkeeper","1992-10-02",26,"Brazil","Liverpool FC","Premier League","2019/2020",2019
+"36","Simon Mignolet","Goalkeeper","1988-03-06",31,"Belgium","Liverpool FC","Premier League","2019/2020",2019
+"37","Adrián","Goalkeeper","1987-01-03",32,"Spain","Liverpool FC","Premier League","2019/2020",2019
+"38","Loris Karius","Goalkeeper","1993-06-22",26,"Germany","Liverpool FC","Premier League","2019/2020",2019
+"39","Caoimhin Kelleher","Goalkeeper","1998-11-23",20,"Ireland","Liverpool FC","Premier League","2019/2020",2019
+"40","Andy Lonergan","Goalkeeper","1983-10-19",35,"England","Liverpool FC","Premier League","2019/2020",2019
+"41","Ben Winterbottom","Goalkeeper","2001-07-16",17,"England","Liverpool FC","Premier League","2019/2020",2019
+"42","Vitezslav Jaros","Goalkeeper","2001-07-23",17,"Czech Republic","Liverpool FC","Premier League","2019/2020",2019
+"43","Virgil van Dijk","Centre-Back","1991-07-08",27,"Netherlands","Liverpool FC","Premier League","2019/2020",2019
+"44","Joe Gomez","Centre-Back","1997-05-23",22,"England","Liverpool FC","Premier League","2019/2020",2019
+"45","Joel Matip","Centre-Back","1991-08-08",27,"Cameroon","Liverpool FC","Premier League","2019/2020",2019
+"46","Dejan Lovren","Centre-Back","1989-07-05",29,"Croatia","Liverpool FC","Premier League","2019/2020",2019
+"47","Sepp van den Berg","Centre-Back","2001-12-20",17,"Netherlands","Liverpool FC","Premier League","2019/2020",2019
+"48","Nathaniel Phillips","Centre-Back","1997-03-21",22,"England","Liverpool FC","Premier League","2019/2020",2019
+"49","Tom Clayton","Centre-Back","2000-12-16",18,"Scotland","Liverpool FC","Premier League","2019/2020",2019
+"50","Morgan Boyes","Centre-Back","2001-04-22",18,"Wales","Liverpool FC","Premier League","2019/2020",2019
+"51","Billy Koumetio","Centre-Back","2002-11-14",16,"France","Liverpool FC","Premier League","2019/2020",2019
+"52","Andrew Robertson","Left-Back","1994-03-11",25,"Scotland","Liverpool FC","Premier League","2019/2020",2019
+"53","Yasser Larouci","Left-Back","2001-01-01",18,"France","Liverpool FC","Premier League","2019/2020",2019
+"54","Tony Gallacher","Left-Back","1999-07-23",19,"Scotland","Liverpool FC","Premier League","2019/2020",2019
+"55","Adam Lewis","Left-Back","1999-11-08",19,"England","Liverpool FC","Premier League","2019/2020",2019
+"56","James Norris","Left-Back","2003-04-04",16,"England","Liverpool FC","Premier League","2019/2020",2019
+"57","Trent Alexander-Arnold","Right-Back","1998-10-07",20,"England","Liverpool FC","Premier League","2019/2020",2019
+"58","Nathaniel Clyne","Right-Back","1991-04-05",28,"England","Liverpool FC","Premier League","2019/2020",2019
+"59","Ki-Jana Hoever","Right-Back","2002-01-18",17,"Netherlands","Liverpool FC","Premier League","2019/2020",2019
+"60","Neco Williams","Right-Back","2001-04-13",18,"Wales","Liverpool FC","Premier League","2019/2020",2019
+"61","Fabinho","Defensive Midfield","1993-10-23",25,"Brazil","Liverpool FC","Premier League","2019/2020",2019
+"62","Pedro Chirivella","Defensive Midfield","1997-05-23",22,"Spain","Liverpool FC","Premier League","2019/2020",2019
+"63","Leighton Clarkson","Defensive Midfield","2001-10-19",17,"England","Liverpool FC","Premier League","2019/2020",2019
+"64","Georginio Wijnaldum","Central Midfield","1990-11-11",28,"Netherlands","Liverpool FC","Premier League","2019/2020",2019
+"65","Naby Keïta","Central Midfield","1995-02-10",24,"Guinea","Liverpool FC","Premier League","2019/2020",2019
+"66","Jordan Henderson","Central Midfield","1990-06-17",29,"England","Liverpool FC","Premier League","2019/2020",2019
+"67","Alex Oxlade-Chamberlain","Central Midfield","1993-08-15",25,"England","Liverpool FC","Premier League","2019/2020",2019
+"68","James Milner","Central Midfield","1986-01-04",33,"England","Liverpool FC","Premier League","2019/2020",2019
+"69","Curtis Jones","Central Midfield","2001-01-30",18,"England","Liverpool FC","Premier League","2019/2020",2019
+"70","Herbie Kane","Central Midfield","1998-11-23",20,"England","Liverpool FC","Premier League","2019/2020",2019
+"71","Elijah Dixon-Bonner","Central Midfield","2001-01-01",18,"England","Liverpool FC","Premier League","2019/2020",2019
+"72","Thomas Hill","Central Midfield","2002-10-13",16,"England","Liverpool FC","Premier League","2019/2020",2019
+"73","Adam Lallana","Attacking Midfield","1988-05-10",31,"England","Liverpool FC","Premier League","2019/2020",2019
+"74","Ben Woodburn","Attacking Midfield","1999-10-15",19,"Wales","Liverpool FC","Premier League","2019/2020",2019
+"75","Isaac Christie-Davies","Attacking Midfield","1997-10-18",21,"Wales","Liverpool FC","Premier League","2019/2020",2019
+"76","Jake Cain","Attacking Midfield","2001-09-02",17,"England","Liverpool FC","Premier League","2019/2020",2019
+"77","Jack Bearne","Attacking Midfield","2001-09-15",17,"England","Liverpool FC","Premier League","2019/2020",2019
+"78","Sadio Mané","Left Winger","1992-04-10",27,"Senegal","Liverpool FC","Premier League","2019/2020",2019
+"79","Takumi Minamino","Left Winger","1995-01-16",24,"Japan","Liverpool FC","Premier League","2019/2020",2019
+"80","Luis Longstaff","Left Winger","2001-02-24",18,"England","Liverpool FC","Premier League","2019/2020",2019
+"81","Mohamed Salah","Right Winger","1992-06-15",27,"Egypt","Liverpool FC","Premier League","2019/2020",2019
+"82","Xherdan Shaqiri","Right Winger","1991-10-10",27,"Switzerland","Liverpool FC","Premier League","2019/2020",2019
+"83","Harvey Elliott","Right Winger","2003-04-04",16,"England","Liverpool FC","Premier League","2019/2020",2019
+"84","Sheyi Ojo","Right Winger","1997-06-19",22,"England","Liverpool FC","Premier League","2019/2020",2019
+"85","Roberto Firmino","Centre-Forward","1991-10-02",27,"Brazil","Liverpool FC","Premier League","2019/2020",2019
+"86","Divock Origi","Centre-Forward","1995-04-18",24,"Belgium","Liverpool FC","Premier League","2019/2020",2019
+"87","Rhian Brewster","Centre-Forward","2000-04-01",19,"England","Liverpool FC","Premier League","2019/2020",2019
+"88","Liam Millar","Centre-Forward","1999-09-27",19,"Canada","Liverpool FC","Premier League","2019/2020",2019
+"89","Joe Hardy","Centre-Forward","1998-09-26",20,"England","Liverpool FC","Premier League","2019/2020",2019
+"90","Layton Stewart","Centre-Forward","2002-09-03",16,"England","Liverpool FC","Premier League","2019/2020",2019
+"91","Hugo Lloris","Goalkeeper","1986-12-26",32,"France","Tottenham Hotspur","Premier League","2019/2020",2019
+"92","Paulo Gazzaniga","Goalkeeper","1992-01-02",27,"Argentina","Tottenham Hotspur","Premier League","2019/2020",2019
+"93","Michel Vorm","Goalkeeper","1983-10-20",35,"Netherlands","Tottenham Hotspur","Premier League","2019/2020",2019
+"94","Brandon Austin","Goalkeeper","1999-01-08",20,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"95","Alfie Whiteman","Goalkeeper","1998-10-02",20,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"96","Davinson Sánchez","Centre-Back","1996-06-12",23,"Colombia","Tottenham Hotspur","Premier League","2019/2020",2019
+"97","Toby Alderweireld","Centre-Back","1989-03-02",30,"Belgium","Tottenham Hotspur","Premier League","2019/2020",2019
+"98","Eric Dier","Centre-Back","1994-01-15",25,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"99","Jan Vertonghen","Centre-Back","1987-04-24",32,"Belgium","Tottenham Hotspur","Premier League","2019/2020",2019
+"100","Juan Foyth","Centre-Back","1998-01-12",21,"Argentina","Tottenham Hotspur","Premier League","2019/2020",2019
+"101","Japhet Tanganga","Centre-Back","1999-03-31",20,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"102","Cameron Carter-Vickers","Centre-Back","1997-12-31",21,"United States","Tottenham Hotspur","Premier League","2019/2020",2019
+"103","Malachi Fagan-Walcott","Centre-Back","2002-03-11",17,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"104","Ryan Sessegnon","Left-Back","2000-05-18",19,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"105","Ben Davies","Left-Back","1993-04-24",26,"Wales","Tottenham Hotspur","Premier League","2019/2020",2019
+"106","Danny Rose","Left-Back","1990-07-02",28,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"107","Dennis Cirkin","Left-Back","2002-04-06",17,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"108","Serge Aurier","Right-Back","1992-12-24",26,"Cote d'Ivoire","Tottenham Hotspur","Premier League","2019/2020",2019
+"109","Kyle Walker-Peters","Right-Back","1997-04-13",22,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"110","Harry Winks","Defensive Midfield","1996-02-02",23,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"111","Oliver Skipp","Defensive Midfield","2000-09-16",18,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"112","Victor Wanyama","Defensive Midfield","1991-06-25",28,"Kenya","Tottenham Hotspur","Premier League","2019/2020",2019
+"113","Harvey White","Defensive Midfield","2001-09-19",17,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"114","Tanguy Ndombélé","Central Midfield","1996-12-28",22,"France","Tottenham Hotspur","Premier League","2019/2020",2019
+"115","Giovani Lo Celso","Central Midfield","1996-04-09",23,"Argentina","Tottenham Hotspur","Premier League","2019/2020",2019
+"116","Moussa Sissoko","Central Midfield","1989-08-16",29,"France","Tottenham Hotspur","Premier League","2019/2020",2019
+"117","Gedson Fernandes","Central Midfield","1999-01-09",20,"Portugal","Tottenham Hotspur","Premier League","2019/2020",2019
+"118","Christian Eriksen","Attacking Midfield","1992-02-14",27,"Denmark","Tottenham Hotspur","Premier League","2019/2020",2019
+"119","Dele Alli","Attacking Midfield","1996-04-11",23,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"120","Heung-min Son","Left Winger","1992-07-08",26,"Korea, South","Tottenham Hotspur","Premier League","2019/2020",2019
+"121","Steven Bergwijn","Left Winger","1997-10-08",21,"Netherlands","Tottenham Hotspur","Premier League","2019/2020",2019
+"122","Georges-Kevin N'Koudou","Left Winger","1995-02-13",24,"France","Tottenham Hotspur","Premier League","2019/2020",2019
+"123","Lucas Moura","Right Winger","1992-08-13",26,"Brazil","Tottenham Hotspur","Premier League","2019/2020",2019
+"124","Erik Lamela","Right Winger","1992-03-04",27,"Argentina","Tottenham Hotspur","Premier League","2019/2020",2019
+"125","Harry Kane","Centre-Forward","1993-07-28",25,"England","Tottenham Hotspur","Premier League","2019/2020",2019
+"126","Troy Parrott","Centre-Forward","2002-02-04",17,"Ireland","Tottenham Hotspur","Premier League","2019/2020",2019
+"127","Kepa","Goalkeeper","1994-10-03",24,"Spain","Chelsea FC","Premier League","2019/2020",2019
+"128","Willy Caballero","Goalkeeper","1981-09-28",37,"Argentina","Chelsea FC","Premier League","2019/2020",2019
+"129","Jamie Cumming","Goalkeeper","1999-09-04",19,"England","Chelsea FC","Premier League","2019/2020",2019
+"130","Antonio Rüdiger","Centre-Back","1993-03-03",26,"Germany","Chelsea FC","Premier League","2019/2020",2019
+"131","Kurt Zouma","Centre-Back","1994-10-27",24,"France","Chelsea FC","Premier League","2019/2020",2019
+"132","Andreas Christensen","Centre-Back","1996-04-10",23,"Denmark","Chelsea FC","Premier League","2019/2020",2019
+"133","Fikayo Tomori","Centre-Back","1997-12-19",21,"England","Chelsea FC","Premier League","2019/2020",2019
+"134","Marc Guehi","Centre-Back","2000-07-13",18,"England","Chelsea FC","Premier League","2019/2020",2019
+"135","Dynel Simeu","Centre-Back","2002-03-13",17,"England","Chelsea FC","Premier League","2019/2020",2019
+"136","Emerson","Left-Back","1994-08-03",24,"Italy","Chelsea FC","Premier League","2019/2020",2019
+"137","Marcos Alonso","Left-Back","1990-12-28",28,"Spain","Chelsea FC","Premier League","2019/2020",2019
+"138","Ian Maatsen","Left-Back","2002-03-10",17,"Netherlands","Chelsea FC","Premier League","2019/2020",2019
+"139","César Azpilicueta","Right-Back","1989-08-28",29,"Spain","Chelsea FC","Premier League","2019/2020",2019
+"140","Reece James","Right-Back","1999-12-08",19,"England","Chelsea FC","Premier League","2019/2020",2019
+"141","Tariq Lamptey","Right-Back","2000-09-30",18,"England","Chelsea FC","Premier League","2019/2020",2019
+"142","Henry Lawrence","Right-Back","2001-09-21",17,"England","Chelsea FC","Premier League","2019/2020",2019
+"143","Jorginho","Defensive Midfield","1991-12-20",27,"Italy","Chelsea FC","Premier League","2019/2020",2019
+"144","N'Golo Kanté","Central Midfield","1991-03-29",28,"France","Chelsea FC","Premier League","2019/2020",2019
+"145","Mateo Kovacic","Central Midfield","1994-05-06",25,"Croatia","Chelsea FC","Premier League","2019/2020",2019
+"146","Ruben Loftus-Cheek","Central Midfield","1996-01-23",23,"England","Chelsea FC","Premier League","2019/2020",2019
+"147","Ross Barkley","Central Midfield","1993-12-05",25,"England","Chelsea FC","Premier League","2019/2020",2019
+"148","Billy Gilmour","Central Midfield","2001-06-11",18,"Scotland","Chelsea FC","Premier League","2019/2020",2019
+"149","Marco van Ginkel","Central Midfield","1992-12-01",26,"Netherlands","Chelsea FC","Premier League","2019/2020",2019
+"150","Lewis Bate","Central Midfield","2002-10-28",16,"England","Chelsea FC","Premier League","2019/2020",2019
+"151","Davide Zappacosta","Right Midfield","1992-06-11",27,"Italy","Chelsea FC","Premier League","2019/2020",2019
+"152","Mason Mount","Attacking Midfield","1999-01-10",20,"England","Chelsea FC","Premier League","2019/2020",2019
+"153","Faustino Anjorin","Attacking Midfield","2001-11-23",17,"England","Chelsea FC","Premier League","2019/2020",2019
+"154","Christian Pulisic","Left Winger","1998-09-18",20,"United States","Chelsea FC","Premier League","2019/2020",2019
+"155","Callum Hudson-Odoi","Left Winger","2000-11-07",18,"England","Chelsea FC","Premier League","2019/2020",2019
+"156","Kenedy","Left Winger","1996-02-08",23,"Brazil","Chelsea FC","Premier League","2019/2020",2019
+"157","Willian","Right Winger","1988-08-09",30,"Brazil","Chelsea FC","Premier League","2019/2020",2019
+"158","Pedro","Right Winger","1987-07-28",31,"Spain","Chelsea FC","Premier League","2019/2020",2019
+"159","Tammy Abraham","Centre-Forward","1997-10-02",21,"England","Chelsea FC","Premier League","2019/2020",2019
+"160","Michy Batshuayi","Centre-Forward","1993-10-02",25,"Belgium","Chelsea FC","Premier League","2019/2020",2019
+"161","Olivier Giroud","Centre-Forward","1986-09-30",32,"France","Chelsea FC","Premier League","2019/2020",2019
+"162","Armando Broja","Centre-Forward","2001-09-10",17,"Albania","Chelsea FC","Premier League","2019/2020",2019
+"163","David de Gea","Goalkeeper","1990-11-07",28,"Spain","Manchester United","Premier League","2019/2020",2019
+"164","Sergio Romero","Goalkeeper","1987-02-22",32,"Argentina","Manchester United","Premier League","2019/2020",2019
+"165","Lee Grant","Goalkeeper","1983-01-27",36,"England","Manchester United","Premier League","2019/2020",2019
+"166","Joel Pereira","Goalkeeper","1996-06-28",23,"Portugal","Manchester United","Premier League","2019/2020",2019
+"167","Matej Kovar","Goalkeeper","2000-05-17",19,"Czech Republic","Manchester United","Premier League","2019/2020",2019
+"168","Harry Maguire","Centre-Back","1993-03-05",26,"England","Manchester United","Premier League","2019/2020",2019
+"169","Victor Lindelöf","Centre-Back","1994-07-17",24,"Sweden","Manchester United","Premier League","2019/2020",2019
+"170","Eric Bailly","Centre-Back","1994-04-12",25,"Cote d'Ivoire","Manchester United","Premier League","2019/2020",2019
+"171","Marcos Rojo","Centre-Back","1990-03-20",29,"Argentina","Manchester United","Premier League","2019/2020",2019
+"172","Axel Tuanzebe","Centre-Back","1997-11-14",21,"England","Manchester United","Premier League","2019/2020",2019
+"173","Phil Jones","Centre-Back","1992-02-21",27,"England","Manchester United","Premier League","2019/2020",2019
+"174","Max Taylor","Centre-Back","2000-01-10",19,"England","Manchester United","Premier League","2019/2020",2019
+"175","Di'Shon Bernard","Centre-Back","2000-10-14",18,"England","Manchester United","Premier League","2019/2020",2019
+"176","Teden Mengi","Centre-Back","2002-04-30",17,"England","Manchester United","Premier League","2019/2020",2019
+"177","Luke Shaw","Left-Back","1995-07-12",23,"England","Manchester United","Premier League","2019/2020",2019
+"178","Brandon Williams","Left-Back","2000-09-03",18,"England","Manchester United","Premier League","2019/2020",2019
+"179","Cameron Borthwick-Jackson","Left-Back","1997-02-02",22,"England","Manchester United","Premier League","2019/2020",2019
+"180","Aaron Wan-Bissaka","Right-Back","1997-11-26",21,"England","Manchester United","Premier League","2019/2020",2019
+"181","Diogo Dalot","Right-Back","1999-03-18",20,"Portugal","Manchester United","Premier League","2019/2020",2019
+"182","Timothy Fosu-Mensah","Right-Back","1998-01-02",21,"Netherlands","Manchester United","Premier League","2019/2020",2019
+"183","Ethan Laird","Right-Back","2001-08-05",17,"England","Manchester United","Premier League","2019/2020",2019
+"184","Nemanja Matic","Defensive Midfield","1988-08-01",30,"Serbia","Manchester United","Premier League","2019/2020",2019
+"185","James Garner","Defensive Midfield","2001-03-13",18,"England","Manchester United","Premier League","2019/2020",2019
+"186","Paul Pogba","Central Midfield","1993-03-15",26,"France","Manchester United","Premier League","2019/2020",2019
+"187","Scott McTominay","Central Midfield","1996-12-08",22,"Scotland","Manchester United","Premier League","2019/2020",2019
+"188","Fred","Central Midfield","1993-03-05",26,"Brazil","Manchester United","Premier League","2019/2020",2019
+"189","Ethan Galbraith","Central Midfield","2001-05-11",18,"Northern Ireland","Manchester United","Premier League","2019/2020",2019
+"190","Arnau Puigmal","Central Midfield","2001-01-10",18,"Spain","Manchester United","Premier League","2019/2020",2019
+"191","Dylan Levitt","Central Midfield","2000-11-17",18,"Wales","Manchester United","Premier League","2019/2020",2019
+"192","Ashley Young","Left Midfield","1985-07-09",33,"England","Manchester United","Premier League","2019/2020",2019
+"193","Bruno Fernandes","Attacking Midfield","1994-09-08",24,"Portugal","Manchester United","Premier League","2019/2020",2019
+"194","Jesse Lingard","Attacking Midfield","1992-12-15",26,"England","Manchester United","Premier League","2019/2020",2019
+"195","Andreas Pereira","Attacking Midfield","1996-01-01",23,"Brazil","Manchester United","Premier League","2019/2020",2019
+"196","Juan Mata","Attacking Midfield","1988-04-28",31,"Spain","Manchester United","Premier League","2019/2020",2019
+"197","Angel Gomes","Attacking Midfield","2000-08-31",18,"England","Manchester United","Premier League","2019/2020",2019
+"198","Marcus Rashford","Left Winger","1997-10-31",21,"England","Manchester United","Premier League","2019/2020",2019
+"199","Daniel James","Left Winger","1997-11-10",21,"Wales","Manchester United","Premier League","2019/2020",2019
+"200","Largie Ramazani","Left Winger","2001-02-27",18,"Belgium","Manchester United","Premier League","2019/2020",2019
+"201","Mason Greenwood","Right Winger","2001-10-01",17,"England","Manchester United","Premier League","2019/2020",2019
+"202","Tahith Chong","Right Winger","1999-12-04",19,"Netherlands","Manchester United","Premier League","2019/2020",2019
+"203","Anthony Martial","Centre-Forward","1995-12-05",23,"France","Manchester United","Premier League","2019/2020",2019
+"204","Odion Ighalo","Centre-Forward","1989-06-16",30,"Nigeria","Manchester United","Premier League","2019/2020",2019
+"205","D'Mani Bughail-Mellor","Centre-Forward","2000-09-20",18,"England","Manchester United","Premier League","2019/2020",2019
+"206","Bernd Leno","Goalkeeper","1992-03-04",27,"Germany","Arsenal FC","Premier League","2019/2020",2019
+"207","Emiliano Martínez","Goalkeeper","1992-09-02",26,"Argentina","Arsenal FC","Premier League","2019/2020",2019
+"208","Matt Macey","Goalkeeper","1994-09-09",24,"England","Arsenal FC","Premier League","2019/2020",2019
+"209","Sokratis","Centre-Back","1988-06-09",31,"Greece","Arsenal FC","Premier League","2019/2020",2019
+"210","Calum Chambers","Centre-Back","1995-01-20",24,"England","Arsenal FC","Premier League","2019/2020",2019
+"211","Shkodran Mustafi","Centre-Back","1992-04-17",27,"Germany","Arsenal FC","Premier League","2019/2020",2019
+"212","David Luiz","Centre-Back","1987-04-22",32,"Brazil","Arsenal FC","Premier League","2019/2020",2019
+"213","Rob Holding","Centre-Back","1995-09-20",23,"England","Arsenal FC","Premier League","2019/2020",2019
+"214","Pablo Marí","Centre-Back","1993-08-31",25,"Spain","Arsenal FC","Premier League","2019/2020",2019
+"215","Konstantinos Mavropanos","Centre-Back","1997-12-11",21,"Greece","Arsenal FC","Premier League","2019/2020",2019
+"216","Zech Medley","Centre-Back","2000-07-09",18,"England","Arsenal FC","Premier League","2019/2020",2019
+"217","Kieran Tierney","Left-Back","1997-06-05",22,"Scotland","Arsenal FC","Premier League","2019/2020",2019
+"218","Sead Kolasinac","Left-Back","1993-06-20",26,"Bosnia-Herzegovina","Arsenal FC","Premier League","2019/2020",2019
+"219","Nacho Monreal","Left-Back","1986-02-26",33,"Spain","Arsenal FC","Premier League","2019/2020",2019
+"220","Tolaji Bola","Left-Back","1999-01-04",20,"England","Arsenal FC","Premier League","2019/2020",2019
+"221","Héctor Bellerín","Right-Back","1995-03-19",24,"Spain","Arsenal FC","Premier League","2019/2020",2019
+"222","Cédric Soares","Right-Back","1991-08-31",27,"Portugal","Arsenal FC","Premier League","2019/2020",2019
+"223","Lucas Torreira","Defensive Midfield","1996-02-11",23,"Uruguay","Arsenal FC","Premier League","2019/2020",2019
+"224","Granit Xhaka","Defensive Midfield","1992-09-27",26,"Switzerland","Arsenal FC","Premier League","2019/2020",2019
+"225","Mattéo Guendouzi","Central Midfield","1999-04-14",20,"France","Arsenal FC","Premier League","2019/2020",2019
+"226","Dani Ceballos","Central Midfield","1996-08-07",22,"Spain","Arsenal FC","Premier League","2019/2020",2019
+"227","Joe Willock","Central Midfield","1999-08-20",19,"England","Arsenal FC","Premier League","2019/2020",2019
+"228","Robbie Burton","Central Midfield","1999-12-26",19,"Wales","Arsenal FC","Premier League","2019/2020",2019
+"229","James Olayinka","Central Midfield","2000-10-05",18,"England","Arsenal FC","Premier League","2019/2020",2019
+"230","Matt Smith","Central Midfield","2000-10-05",18,"England","Arsenal FC","Premier League","2019/2020",2019
+"231","Ainsley Maitland-Niles","Right Midfield","1997-08-29",21,"England","Arsenal FC","Premier League","2019/2020",2019
+"232","Bukayo Saka","Left Midfield","2001-09-05",17,"England","Arsenal FC","Premier League","2019/2020",2019
+"233","Henrikh Mkhitaryan","Attacking Midfield","1989-01-21",30,"Armenia","Arsenal FC","Premier League","2019/2020",2019
+"234","Mesut Özil","Attacking Midfield","1988-10-15",30,"Germany","Arsenal FC","Premier League","2019/2020",2019
+"235","Emile Smith Rowe","Attacking Midfield","2000-07-28",18,"England","Arsenal FC","Premier League","2019/2020",2019
+"236","Gabriel Martinelli","Left Winger","2001-06-18",18,"Brazil","Arsenal FC","Premier League","2019/2020",2019
+"237","Nicolas Pépé","Right Winger","1995-05-29",24,"Cote d'Ivoire","Arsenal FC","Premier League","2019/2020",2019
+"238","Reiss Nelson","Right Winger","1999-12-10",19,"England","Arsenal FC","Premier League","2019/2020",2019
+"239","Pierre-Emerick Aubameyang","Centre-Forward","1989-06-18",30,"Gabon","Arsenal FC","Premier League","2019/2020",2019
+"240","Alexandre Lacazette","Centre-Forward","1991-05-28",28,"France","Arsenal FC","Premier League","2019/2020",2019
+"241","Eddie Nketiah","Centre-Forward","1999-05-30",20,"England","Arsenal FC","Premier League","2019/2020",2019
+"242","Tyreece John-Jules","Centre-Forward","2001-02-14",18,"England","Arsenal FC","Premier League","2019/2020",2019
+"243","Folarin Balogun","Centre-Forward","2001-07-03",17,"England","Arsenal FC","Premier League","2019/2020",2019
+"244","Jordan Pickford","Goalkeeper","1994-03-07",25,"England","Everton FC","Premier League","2019/2020",2019
+"245","Jonas Lössl","Goalkeeper","1989-02-01",30,"Denmark","Everton FC","Premier League","2019/2020",2019
+"246","Maarten Stekelenburg","Goalkeeper","1982-09-22",36,"Netherlands","Everton FC","Premier League","2019/2020",2019
+"247","João Virgínia","Goalkeeper","1999-10-10",19,"Portugal","Everton FC","Premier League","2019/2020",2019
+"248","Michael Keane","Centre-Back","1993-01-11",26,"England","Everton FC","Premier League","2019/2020",2019
+"249","Yerry Mina","Centre-Back","1994-09-23",24,"Colombia","Everton FC","Premier League","2019/2020",2019
+"250","Mason Holgate","Centre-Back","1996-10-22",22,"England","Everton FC","Premier League","2019/2020",2019
+"251","Lewis Gibson","Centre-Back","2000-07-19",18,"England","Everton FC","Premier League","2019/2020",2019
+"252","Jarrad Branthwaite","Centre-Back","2002-06-27",17,"England","Everton FC","Premier League","2019/2020",2019
+"253","Lucas Digne","Left-Back","1993-07-20",25,"France","Everton FC","Premier League","2019/2020",2019
+"254","Leighton Baines","Left-Back","1984-12-11",34,"England","Everton FC","Premier League","2019/2020",2019
+"255","Luke Garbutt","Left-Back","1993-05-21",26,"England","Everton FC","Premier League","2019/2020",2019
+"256","Djibril Sidibé","Right-Back","1992-07-29",26,"France","Everton FC","Premier League","2019/2020",2019
+"257","Seamus Coleman","Right-Back","1988-10-11",30,"Ireland","Everton FC","Premier League","2019/2020",2019
+"258","Cuco Martina","Right-Back","1989-09-25",29,"Curacao","Everton FC","Premier League","2019/2020",2019
+"259","Jean-Philippe Gbamin","Defensive Midfield","1995-09-25",23,"Cote d'Ivoire","Everton FC","Premier League","2019/2020",2019
+"260","Morgan Schneiderlin","Defensive Midfield","1989-11-08",29,"France","Everton FC","Premier League","2019/2020",2019
+"261","Muhamed Besic","Defensive Midfield","1992-09-10",26,"Bosnia-Herzegovina","Everton FC","Premier League","2019/2020",2019
+"262","André Gomes","Central Midfield","1993-07-30",25,"Portugal","Everton FC","Premier League","2019/2020",2019
+"263","Tom Davies","Central Midfield","1998-06-30",21,"England","Everton FC","Premier League","2019/2020",2019
+"264","Fabian Delph","Central Midfield","1989-11-21",29,"England","Everton FC","Premier League","2019/2020",2019
+"265","Beni Baningime","Central Midfield","1998-09-09",20,"DR Congo","Everton FC","Premier League","2019/2020",2019
+"266","Dennis Adeniran","Central Midfield","1999-01-02",20,"England","Everton FC","Premier League","2019/2020",2019
+"267","Gylfi Sigurdsson","Attacking Midfield","1989-09-08",29,"Iceland","Everton FC","Premier League","2019/2020",2019
+"268","Alex Iwobi","Left Winger","1996-05-03",23,"Nigeria","Everton FC","Premier League","2019/2020",2019
+"269","Bernard","Left Winger","1992-09-08",26,"Brazil","Everton FC","Premier League","2019/2020",2019
+"270","Yannick Bolasie","Left Winger","1989-05-24",30,"DR Congo","Everton FC","Premier League","2019/2020",2019
+"271","Anthony Gordon","Left Winger","2001-02-24",18,"England","Everton FC","Premier League","2019/2020",2019
+"272","Theo Walcott","Right Winger","1989-03-16",30,"England","Everton FC","Premier League","2019/2020",2019
+"273","Richarlison","Centre-Forward","1997-05-10",22,"Brazil","Everton FC","Premier League","2019/2020",2019
+"274","Moise Kean","Centre-Forward","2000-02-28",19,"Italy","Everton FC","Premier League","2019/2020",2019
+"275","Dominic Calvert-Lewin","Centre-Forward","1997-03-16",22,"England","Everton FC","Premier League","2019/2020",2019
+"276","Cenk Tosun","Centre-Forward","1991-06-07",28,"Turkey","Everton FC","Premier League","2019/2020",2019
+"277","Oumar Niasse","Centre-Forward","1990-04-18",29,"Senegal","Everton FC","Premier League","2019/2020",2019
+"278","Ellis Simms","Centre-Forward","2001-01-05",18,"England","Everton FC","Premier League","2019/2020",2019
+"279","Kasper Schmeichel","Goalkeeper","1986-11-05",32,"Denmark","Leicester City","Premier League","2019/2020",2019
+"280","Danny Ward","Goalkeeper","1993-06-22",26,"Wales","Leicester City","Premier League","2019/2020",2019
+"281","Eldin Jakupovic","Goalkeeper","1984-10-02",34,"Switzerland","Leicester City","Premier League","2019/2020",2019
+"282","Caglar Söyüncü","Centre-Back","1996-05-23",23,"Turkey","Leicester City","Premier League","2019/2020",2019
+"283","Jonny Evans","Centre-Back","1988-01-03",31,"Northern Ireland","Leicester City","Premier League","2019/2020",2019
+"284","Filip Benkovic","Centre-Back","1997-07-13",21,"Croatia","Leicester City","Premier League","2019/2020",2019
+"285","Ryan Bennett","Centre-Back","1990-03-06",29,"England","Leicester City","Premier League","2019/2020",2019
+"286","Wes Morgan","Centre-Back","1984-01-21",35,"Jamaica","Leicester City","Premier League","2019/2020",2019
+"287","Darnell Johnson","Centre-Back","1998-09-03",20,"England","Leicester City","Premier League","2019/2020",2019
+"288","Ben Chilwell","Left-Back","1996-12-21",22,"England","Leicester City","Premier League","2019/2020",2019
+"289","Christian Fuchs","Left-Back","1986-04-07",33,"Austria","Leicester City","Premier League","2019/2020",2019
+"290","Luke Thomas","Left-Back","2001-06-10",18,"England","Leicester City","Premier League","2019/2020",2019
+"291","Ricardo Pereira","Right-Back","1993-10-06",25,"Portugal","Leicester City","Premier League","2019/2020",2019
+"292","James Justin","Right-Back","1998-02-23",21,"England","Leicester City","Premier League","2019/2020",2019
+"293","Wilfred Ndidi","Defensive Midfield","1996-12-16",22,"Nigeria","Leicester City","Premier League","2019/2020",2019
+"294","Hamza Choudhury","Defensive Midfield","1997-10-01",21,"England","Leicester City","Premier League","2019/2020",2019
+"295","Daniel Amartey","Defensive Midfield","1994-12-21",24,"Ghana","Leicester City","Premier League","2019/2020",2019
+"296","Nampalys Mendy","Defensive Midfield","1992-06-23",27,"France","Leicester City","Premier League","2019/2020",2019
+"297","Kiernan Dewsbury-Hall","Defensive Midfield","1998-09-06",20,"England","Leicester City","Premier League","2019/2020",2019
+"298","Youri Tielemans","Central Midfield","1997-05-07",22,"Belgium","Leicester City","Premier League","2019/2020",2019
+"299","Dennis Praet","Central Midfield","1994-05-14",25,"Belgium","Leicester City","Premier League","2019/2020",2019
+"300","Matty James","Central Midfield","1991-07-22",27,"England","Leicester City","Premier League","2019/2020",2019
+"301","Marc Albrighton","Right Midfield","1989-11-18",29,"England","Leicester City","Premier League","2019/2020",2019
+"302","Harvey Barnes","Left Midfield","1997-12-09",21,"England","Leicester City","Premier League","2019/2020",2019
+"303","James Maddison","Attacking Midfield","1996-11-23",22,"England","Leicester City","Premier League","2019/2020",2019
+"304","Bartosz Kapustka","Attacking Midfield","1996-12-23",22,"Poland","Leicester City","Premier League","2019/2020",2019
+"305","George Thomas","Attacking Midfield","1997-03-24",22,"Wales","Leicester City","Premier League","2019/2020",2019
+"306","Demarai Gray","Left Winger","1996-06-28",23,"England","Leicester City","Premier League","2019/2020",2019
+"307","Ayoze Pérez","Right Winger","1993-07-29",25,"Spain","Leicester City","Premier League","2019/2020",2019
+"308","Jamie Vardy","Centre-Forward","1987-01-11",32,"England","Leicester City","Premier League","2019/2020",2019
+"309","Kelechi Iheanacho","Centre-Forward","1996-10-03",22,"Nigeria","Leicester City","Premier League","2019/2020",2019
+"310","George Hirst","Centre-Forward","1999-02-15",20,"England","Leicester City","Premier League","2019/2020",2019
+"311","Lukasz Fabianski","Goalkeeper","1985-04-18",34,"Poland","West Ham United","Premier League","2019/2020",2019
+"312","Darren Randolph","Goalkeeper","1987-05-12",32,"Ireland","West Ham United","Premier League","2019/2020",2019
+"313","Roberto","Goalkeeper","1986-02-10",33,"Spain","West Ham United","Premier League","2019/2020",2019
+"314","David Martin","Goalkeeper","1986-01-22",33,"England","West Ham United","Premier League","2019/2020",2019
+"315","Joseph Anang","Goalkeeper","2000-06-08",19,"England","West Ham United","Premier League","2019/2020",2019
+"316","Issa Diop","Centre-Back","1997-01-09",22,"France","West Ham United","Premier League","2019/2020",2019
+"317","Fabián Balbuena","Centre-Back","1991-08-23",27,"Paraguay","West Ham United","Premier League","2019/2020",2019
+"318","Angelo Ogbonna","Centre-Back","1988-05-23",31,"Italy","West Ham United","Premier League","2019/2020",2019
+"319","Winston Reid","Centre-Back","1988-07-03",30,"New Zealand","West Ham United","Premier League","2019/2020",2019
+"320","Gonçalo Cardoso","Centre-Back","2000-10-21",18,"Portugal","West Ham United","Premier League","2019/2020",2019
+"321","Aaron Cresswell","Left-Back","1989-12-15",29,"England","West Ham United","Premier League","2019/2020",2019
+"322","Arthur Masuaku","Left-Back","1993-11-07",25,"DR Congo","West Ham United","Premier League","2019/2020",2019
+"323","Ryan Fredericks","Right-Back","1992-10-10",26,"England","West Ham United","Premier League","2019/2020",2019
+"324","Pablo Zabaleta","Right-Back","1985-01-16",34,"Argentina","West Ham United","Premier League","2019/2020",2019
+"325","Jeremy Ngakia","Right-Back","2000-09-07",18,"England","West Ham United","Premier League","2019/2020",2019
+"326","Ben Johnson","Right-Back","2000-01-24",19,"England","West Ham United","Premier League","2019/2020",2019
+"327","Declan Rice","Defensive Midfield","1999-01-14",20,"England","West Ham United","Premier League","2019/2020",2019
+"328","Tomas Soucek","Defensive Midfield","1995-02-27",24,"Czech Republic","West Ham United","Premier League","2019/2020",2019
+"329","Carlos Sánchez","Defensive Midfield","1986-02-06",33,"Colombia","West Ham United","Premier League","2019/2020",2019
+"330","Conor Coventry","Defensive Midfield","2000-03-25",19,"Ireland","West Ham United","Premier League","2019/2020",2019
+"331","Mark Noble","Central Midfield","1987-05-08",32,"England","West Ham United","Premier League","2019/2020",2019
+"332","Jack Wilshere","Central Midfield","1992-01-01",27,"England","West Ham United","Premier League","2019/2020",2019
+"333","Bernardo Rosa","Central Midfield","2000-09-20",18,"Brazil","West Ham United","Premier League","2019/2020",2019
+"334","Alfie Lewis","Central Midfield","1999-09-28",19,"England","West Ham United","Premier League","2019/2020",2019
+"335","Pablo Fornals","Left Midfield","1996-02-22",23,"Spain","West Ham United","Premier League","2019/2020",2019
+"336","Manuel Lanzini","Attacking Midfield","1993-02-15",26,"Argentina","West Ham United","Premier League","2019/2020",2019
+"337","Felipe Anderson","Left Winger","1993-04-15",26,"Brazil","West Ham United","Premier League","2019/2020",2019
+"338","Grady Diangana","Left Winger","1998-04-19",21,"England","West Ham United","Premier League","2019/2020",2019
+"339","Nathan Holland","Left Winger","1998-06-19",21,"England","West Ham United","Premier League","2019/2020",2019
+"340","Jarrod Bowen","Right Winger","1996-12-20",22,"England","West Ham United","Premier League","2019/2020",2019
+"341","Andriy Yarmolenko","Right Winger","1989-10-23",29,"Ukraine","West Ham United","Premier League","2019/2020",2019
+"342","Robert Snodgrass","Right Winger","1987-09-07",31,"Scotland","West Ham United","Premier League","2019/2020",2019
+"343","Xande Silva","Right Winger","1997-03-16",22,"Portugal","West Ham United","Premier League","2019/2020",2019
+"344","Dan Kemp","Right Winger","1999-01-11",20,"England","West Ham United","Premier League","2019/2020",2019
+"345","Sébastien Haller","Centre-Forward","1994-06-22",25,"France","West Ham United","Premier League","2019/2020",2019
+"346","Michail Antonio","Centre-Forward","1990-03-28",29,"England","West Ham United","Premier League","2019/2020",2019
+"347","Chicharito","Centre-Forward","1988-06-01",31,"Mexico","West Ham United","Premier League","2019/2020",2019
+"348","Albian Ajeti","Centre-Forward","1997-02-26",22,"Switzerland","West Ham United","Premier League","2019/2020",2019
+"349","Rui Patrício","Goalkeeper","1988-02-15",31,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"350","John Ruddy","Goalkeeper","1986-10-24",32,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"351","Will Norris","Goalkeeper","1993-08-12",25,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"352","Andreas Söndergaard","Goalkeeper","2001-01-17",18,"Denmark","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"353","Willy Boly","Centre-Back","1991-02-03",28,"France","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"354","Conor Coady","Centre-Back","1993-02-25",26,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"355","Jesús Vallejo","Centre-Back","1997-01-05",22,"Spain","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"356","Ryan Bennett","Centre-Back","1990-03-06",29,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"357","Romain Saïss","Centre-Back","1990-03-26",29,"Morocco","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"358","Max Kilman","Centre-Back","1997-05-23",22,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"359","Dion Sanderson","Centre-Back","1999-12-15",19,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"360","Christian Marques","Centre-Back","2003-01-15",16,"Switzerland","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"361","Jonny Otto","Left-Back","1994-03-03",25,"Spain","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"362","Rúben Vinagre","Left-Back","1999-04-09",20,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"363","Lewis Richards","Left-Back","2001-10-15",17,"Ireland","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"364","Matt Doherty","Right-Back","1992-01-16",27,"Ireland","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"365","Luke Matheson","Right-Back","2002-10-02",16,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"366","Phil Ofosu-Ayeh","Right-Back","1991-09-15",27,"Ghana","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"367","Oskar Buur","Right-Back","1998-03-31",21,"Denmark","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"368","Rúben Neves","Defensive Midfield","1997-03-13",22,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"369","Leander Dendoncker","Defensive Midfield","1995-04-15",24,"Belgium","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"370","Flávio Cristóvão","Defensive Midfield","1997-05-23",22,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"371","Terry Taylor","Defensive Midfield","2001-06-29",18,"Wales","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"372","Owen Otasowie","Defensive Midfield","2001-01-06",18,"United States","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"373","João Moutinho","Central Midfield","1986-09-08",32,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"374","Morgan Gibbs-White","Central Midfield","2000-01-27",19,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"375","Bruno Jordão","Central Midfield","1998-10-12",20,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"376","Connor Ronan","Central Midfield","1998-03-06",21,"Ireland","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"377","Ming-Yang Yang","Central Midfield","1995-07-11",23,"Switzerland","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"378","Chem Campbell","Central Midfield","2002-12-30",16,"Wales","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"379","Ryan Giles","Left Midfield","2000-01-26",19,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"380","Meritan Shabani","Attacking Midfield","1999-03-15",20,"Germany","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"381","Taylor Perry","Attacking Midfield","2001-07-15",17,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"382","Luke Cundle","Attacking Midfield","2002-04-26",17,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"383","Diogo Jota","Left Winger","1996-12-04",22,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"384","Daniel Podence","Left Winger","1995-10-21",23,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"385","Pedro Neto","Left Winger","2000-03-09",19,"Portugal","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"386","Jordan Graham","Left Winger","1995-03-05",24,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"387","Adama Traoré","Right Winger","1996-01-25",23,"Spain","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"388","Raúl Jiménez","Centre-Forward","1991-05-05",28,"Mexico","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"389","Patrick Cutrone","Centre-Forward","1998-01-03",21,"Italy","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"390","Leonardo Campana","Centre-Forward","2000-07-24",18,"Ecuador","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"391","Benny Ashley-Seal","Centre-Forward","1998-11-21",20,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"392","Austin Samuels","Centre-Forward","2000-11-20",18,"England","Wolverhampton Wanderers","Premier League","2019/2020",2019
+"393","Martin Dubravka","Goalkeeper","1989-01-15",30,"Slovakia","Newcastle United","Premier League","2019/2020",2019
+"394","Karl Darlow","Goalkeeper","1990-10-08",28,"England","Newcastle United","Premier League","2019/2020",2019
+"395","Rob Elliot","Goalkeeper","1986-04-30",33,"Ireland","Newcastle United","Premier League","2019/2020",2019
+"396","Jamaal Lascelles","Centre-Back","1993-11-11",25,"England","Newcastle United","Premier League","2019/2020",2019
+"397","Fabian Schär","Centre-Back","1991-12-20",27,"Switzerland","Newcastle United","Premier League","2019/2020",2019
+"398","Paul Dummett","Centre-Back","1991-09-26",27,"Wales","Newcastle United","Premier League","2019/2020",2019
+"399","Federico Fernández","Centre-Back","1989-02-21",30,"Argentina","Newcastle United","Premier League","2019/2020",2019
+"400","Ciaran Clark","Centre-Back","1989-09-26",29,"Ireland","Newcastle United","Premier League","2019/2020",2019
+"401","Florian Lejeune","Centre-Back","1991-05-20",28,"France","Newcastle United","Premier League","2019/2020",2019
+"402","Lewis Cass","Centre-Back","2000-02-27",19,"England","Newcastle United","Premier League","2019/2020",2019
+"403","Kelland Watts","Centre-Back","1999-11-03",19,"England","Newcastle United","Premier League","2019/2020",2019
+"404","Danny Rose","Left-Back","1990-07-02",28,"England","Newcastle United","Premier League","2019/2020",2019
+"405","Matt Ritchie","Left-Back","1989-09-10",29,"Scotland","Newcastle United","Premier League","2019/2020",2019
+"406","Jetro Willems","Left-Back","1994-03-30",25,"Netherlands","Newcastle United","Premier League","2019/2020",2019
+"407","Liam Gibson","Left-Back","1997-04-25",22,"England","Newcastle United","Premier League","2019/2020",2019
+"408","DeAndre Yedlin","Right-Back","1993-07-09",25,"United States","Newcastle United","Premier League","2019/2020",2019
+"409","Emil Krafth","Right-Back","1994-08-02",24,"Sweden","Newcastle United","Premier League","2019/2020",2019
+"410","Javier Manquillo","Right-Back","1994-05-05",25,"Spain","Newcastle United","Premier League","2019/2020",2019
+"411","Jamie Sterry","Right-Back","1995-11-21",23,"England","Newcastle United","Premier League","2019/2020",2019
+"412","Isaac Hayden","Defensive Midfield","1995-03-22",24,"England","Newcastle United","Premier League","2019/2020",2019
+"413","Matthew Longstaff","Defensive Midfield","2000-03-21",19,"England","Newcastle United","Premier League","2019/2020",2019
+"414","Sung-yueng Ki","Defensive Midfield","1989-01-24",30,"Korea, South","Newcastle United","Premier League","2019/2020",2019
+"415","Jack Colback","Defensive Midfield","1989-10-24",29,"England","Newcastle United","Premier League","2019/2020",2019
+"416","Sean Longstaff","Central Midfield","1997-10-30",21,"England","Newcastle United","Premier League","2019/2020",2019
+"417","Jonjo Shelvey","Central Midfield","1992-02-27",27,"England","Newcastle United","Premier League","2019/2020",2019
+"418","Nabil Bentaleb","Central Midfield","1994-11-24",24,"Algeria","Newcastle United","Premier League","2019/2020",2019
+"419","Dan Barlaser","Central Midfield","1997-01-18",22,"England","Newcastle United","Premier League","2019/2020",2019
+"420","Jack Young","Central Midfield","2000-10-21",18,"England","Newcastle United","Premier League","2019/2020",2019
+"421","Valentino Lazaro","Right Midfield","1996-03-24",23,"Austria","Newcastle United","Premier League","2019/2020",2019
+"422","Miguel Almirón","Attacking Midfield","1994-02-10",25,"Paraguay","Newcastle United","Premier League","2019/2020",2019
+"423","Henri Saivet","Attacking Midfield","1990-10-26",28,"Senegal","Newcastle United","Premier League","2019/2020",2019
+"424","Allan Saint-Maximin","Left Winger","1997-03-12",22,"France","Newcastle United","Premier League","2019/2020",2019
+"425","Christian Atsu","Left Winger","1992-01-10",27,"Ghana","Newcastle United","Premier League","2019/2020",2019
+"426","Rolando Aarons","Left Winger","1995-11-16",23,"England","Newcastle United","Premier League","2019/2020",2019
+"427","Jacob Murphy","Right Winger","1995-02-24",24,"England","Newcastle United","Premier League","2019/2020",2019
+"428","Tom Allan","Right Winger","1999-09-23",19,"England","Newcastle United","Premier League","2019/2020",2019
+"429","Joelinton","Centre-Forward","1996-08-14",22,"Brazil","Newcastle United","Premier League","2019/2020",2019
+"430","Dwight Gayle","Centre-Forward","1990-10-17",28,"England","Newcastle United","Premier League","2019/2020",2019
+"431","Yoshinori Muto","Centre-Forward","1992-07-15",26,"Japan","Newcastle United","Premier League","2019/2020",2019
+"432","Andy Carroll","Centre-Forward","1989-01-06",30,"England","Newcastle United","Premier League","2019/2020",2019
+"433","Elias Sörensen","Centre-Forward","1999-09-18",19,"Denmark","Newcastle United","Premier League","2019/2020",2019
+"434","Aaron Ramsdale","Goalkeeper","1998-05-14",21,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"435","Artur Boruc","Goalkeeper","1980-02-20",39,"Poland","AFC Bournemouth","Premier League","2019/2020",2019
+"436","Mark Travers","Goalkeeper","1999-05-18",20,"Ireland","AFC Bournemouth","Premier League","2019/2020",2019
+"437","Will Dennis","Goalkeeper","2000-07-10",18,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"438","Nathan Aké","Centre-Back","1995-02-18",24,"Netherlands","AFC Bournemouth","Premier League","2019/2020",2019
+"439","Steve Cook","Centre-Back","1991-04-19",28,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"440","Chris Mepham","Centre-Back","1997-11-05",21,"Wales","AFC Bournemouth","Premier League","2019/2020",2019
+"441","Jack Simpson","Centre-Back","1996-12-18",22,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"442","Corey Jordan","Centre-Back","1999-03-04",20,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"443","Brennan Camp","Centre-Back","2000-10-12",18,"Scotland","AFC Bournemouth","Premier League","2019/2020",2019
+"444","Diego Rico","Left-Back","1993-02-23",26,"Spain","AFC Bournemouth","Premier League","2019/2020",2019
+"445","Lloyd Kelly","Left-Back","1998-10-06",20,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"446","Charlie Daniels","Left-Back","1986-09-07",32,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"447","Adam Smith","Right-Back","1991-04-29",28,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"448","Jack Stacey","Right-Back","1996-04-06",23,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"449","Simon Francis","Right-Back","1985-02-16",34,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"450","Brooklyn Genesini","Right-Back","2001-12-12",17,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"451","Christian Saydee","Midfielder","2002-05-10",17,"Liberia","AFC Bournemouth","Premier League","2019/2020",2019
+"452","Jefferson Lerma","Defensive Midfield","1994-10-25",24,"Colombia","AFC Bournemouth","Premier League","2019/2020",2019
+"453","Matt Butcher","Defensive Midfield","1997-05-14",22,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"454","Lewis Cook","Central Midfield","1997-02-03",22,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"455","Philip Billing","Central Midfield","1996-06-11",23,"Denmark","AFC Bournemouth","Premier League","2019/2020",2019
+"456","Dan Gosling","Central Midfield","1990-02-01",29,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"457","Andrew Surman","Central Midfield","1986-08-20",32,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"458","Nnamdi Ofoborh","Central Midfield","1999-11-07",19,"Nigeria","AFC Bournemouth","Premier League","2019/2020",2019
+"459","Gavin Kilkenny","Central Midfield","2000-02-01",19,"Ireland","AFC Bournemouth","Premier League","2019/2020",2019
+"460","Kyle Taylor","Central Midfield","1999-08-28",19,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"461","Ryan Fraser","Left Winger","1994-02-24",25,"Scotland","AFC Bournemouth","Premier League","2019/2020",2019
+"462","Arnaut Danjuma","Left Winger","1997-01-31",22,"Netherlands","AFC Bournemouth","Premier League","2019/2020",2019
+"463","Junior Stanislas","Left Winger","1989-11-26",29,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"464","Alex Dobre","Left Winger","1998-08-30",20,"Romania","AFC Bournemouth","Premier League","2019/2020",2019
+"465","David Brooks","Right Winger","1997-07-08",21,"Wales","AFC Bournemouth","Premier League","2019/2020",2019
+"466","Harry Wilson","Right Winger","1997-03-22",22,"Wales","AFC Bournemouth","Premier League","2019/2020",2019
+"467","Jordon Ibe","Right Winger","1995-12-08",23,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"468","Joshua King","Second Striker","1992-01-15",27,"Norway","AFC Bournemouth","Premier League","2019/2020",2019
+"469","Callum Wilson","Centre-Forward","1992-02-27",27,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"470","Dominic Solanke","Centre-Forward","1997-09-14",21,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"471","Jermain Defoe","Centre-Forward","1982-10-07",36,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"472","Sam Surridge","Centre-Forward","1998-07-28",20,"England","AFC Bournemouth","Premier League","2019/2020",2019
+"473","Ben Foster","Goalkeeper","1983-04-03",36,"England","Watford FC","Premier League","2019/2020",2019
+"474","Pontus Dahlberg","Goalkeeper","1999-01-21",20,"Sweden","Watford FC","Premier League","2019/2020",2019
+"475","Heurelho Gomes","Goalkeeper","1981-02-15",38,"Brazil","Watford FC","Premier League","2019/2020",2019
+"476","Daniel Bachmann","Goalkeeper","1994-07-09",24,"Austria","Watford FC","Premier League","2019/2020",2019
+"477","Adam Parkes","Goalkeeper","1999-11-30",19,"England","Watford FC","Premier League","2019/2020",2019
+"478","Christian Kabasele","Centre-Back","1991-02-24",28,"Belgium","Watford FC","Premier League","2019/2020",2019
+"479","Craig Dawson","Centre-Back","1990-05-06",29,"England","Watford FC","Premier League","2019/2020",2019
+"480","Craig Cathcart","Centre-Back","1989-02-06",30,"Northern Ireland","Watford FC","Premier League","2019/2020",2019
+"481","Adrian Mariappa","Centre-Back","1986-10-03",32,"Jamaica","Watford FC","Premier League","2019/2020",2019
+"482","Sebastian Prödl","Centre-Back","1987-06-21",32,"Austria","Watford FC","Premier League","2019/2020",2019
+"483","Mason Barrett","Centre-Back","1999-09-24",19,"England","Watford FC","Premier League","2019/2020",2019
+"484","Bayli Spencer-Adams","Centre-Back","2001-06-26",18,"England","Watford FC","Premier League","2019/2020",2019
+"485","Andi Janjeva","Centre-Back","2002-10-11",16,"England","Watford FC","Premier League","2019/2020",2019
+"486","Adam Masina","Left-Back","1994-01-02",25,"Italy","Watford FC","Premier League","2019/2020",2019
+"487","Jose Cholevas","Left-Back","1984-06-27",35,"Greece","Watford FC","Premier League","2019/2020",2019
+"488","Kiko Femenía","Right-Back","1991-02-02",28,"Spain","Watford FC","Premier League","2019/2020",2019
+"489","Daryl Janmaat","Right-Back","1989-07-22",29,"Netherlands","Watford FC","Premier League","2019/2020",2019
+"490","Dimitri Foulquier","Right-Back","1993-03-23",26,"Guadeloupe","Watford FC","Premier League","2019/2020",2019
+"491","Jamal Balogun","Right-Back","2000-01-18",19,"England","Watford FC","Premier League","2019/2020",2019
+"492","Étienne Capoue","Defensive Midfield","1988-07-11",30,"France","Watford FC","Premier League","2019/2020",2019
+"493","Nathaniel Chalobah","Defensive Midfield","1994-12-12",24,"England","Watford FC","Premier League","2019/2020",2019
+"494","Callum Whelan","Defensive Midfield","1998-09-24",20,"England","Watford FC","Premier League","2019/2020",2019
+"495","Abdoulaye Doucouré","Central Midfield","1993-01-01",26,"France","Watford FC","Premier League","2019/2020",2019
+"496","Will Hughes","Central Midfield","1995-04-17",24,"England","Watford FC","Premier League","2019/2020",2019
+"497","Tom Cleverley","Central Midfield","1989-08-12",29,"England","Watford FC","Premier League","2019/2020",2019
+"498","Domingos Quina","Central Midfield","1999-11-18",19,"Portugal","Watford FC","Premier League","2019/2020",2019
+"499","Tom Dele-Bashiru","Central Midfield","1999-09-17",19,"Nigeria","Watford FC","Premier League","2019/2020",2019
+"500","Henry Wise","Central Midfield","2000-01-01",19,"England","Watford FC","Premier League","2019/2020",2019
+"501","Ken Sema","Left Midfield","1993-09-30",25,"Sweden","Watford FC","Premier League","2019/2020",2019
+"502","Roberto Pereyra","Attacking Midfield","1991-01-07",28,"Argentina","Watford FC","Premier League","2019/2020",2019
+"503","Gerard Deulofeu","Left Winger","1994-03-13",25,"Spain","Watford FC","Premier League","2019/2020",2019
+"504","Isaac Success","Left Winger","1996-01-07",23,"Nigeria","Watford FC","Premier League","2019/2020",2019
+"505","Jayden Bennetts","Left Winger","2001-06-26",18,"England","Watford FC","Premier League","2019/2020",2019
+"506","Joseph Hungbo","Left Winger","2000-01-15",19,"England","Watford FC","Premier League","2019/2020",2019
+"507","Ismaïla Sarr","Right Winger","1998-02-25",21,"Senegal","Watford FC","Premier League","2019/2020",2019
+"508","Ignacio Pussetto","Right Winger","1995-12-21",23,"Argentina","Watford FC","Premier League","2019/2020",2019
+"509","Kaylen Hinds","Second Striker","1998-01-28",21,"England","Watford FC","Premier League","2019/2020",2019
+"510","João Pedro","Centre-Forward","2001-09-26",17,"Brazil","Watford FC","Premier League","2019/2020",2019
+"511","Andre Gray","Centre-Forward","1991-06-26",28,"England","Watford FC","Premier League","2019/2020",2019
+"512","Troy Deeney","Centre-Forward","1988-06-29",31,"England","Watford FC","Premier League","2019/2020",2019
+"513","Danny Welbeck","Centre-Forward","1990-11-26",28,"England","Watford FC","Premier League","2019/2020",2019
+"514","Adalberto Peñaranda","Centre-Forward","1997-05-31",22,"Venezuela","Watford FC","Premier League","2019/2020",2019
+"515","Sam Dalby","Centre-Forward","1999-12-07",19,"England","Watford FC","Premier League","2019/2020",2019
+"516","Fraser Forster","Goalkeeper","1988-03-17",31,"England","Southampton FC","Premier League","2019/2020",2019
+"517","Angus Gunn","Goalkeeper","1996-01-22",23,"England","Southampton FC","Premier League","2019/2020",2019
+"518","Alex McCarthy","Goalkeeper","1989-12-03",29,"England","Southampton FC","Premier League","2019/2020",2019
+"519","Harry Lewis","Goalkeeper","1997-12-20",21,"England","Southampton FC","Premier League","2019/2020",2019
+"520","Jack Rose","Goalkeeper","1995-01-31",24,"England","Southampton FC","Premier League","2019/2020",2019
+"521","Jannik Vestergaard","Centre-Back","1992-08-03",26,"Denmark","Southampton FC","Premier League","2019/2020",2019
+"522","Jan Bednarek","Centre-Back","1996-04-12",23,"Poland","Southampton FC","Premier League","2019/2020",2019
+"523","Kevin Danso","Centre-Back","1998-09-19",20,"Austria","Southampton FC","Premier League","2019/2020",2019
+"524","Jack Stephens","Centre-Back","1994-01-27",25,"England","Southampton FC","Premier League","2019/2020",2019
+"525","Maya Yoshida","Centre-Back","1988-08-24",30,"Japan","Southampton FC","Premier League","2019/2020",2019
+"526","Ryan Bertrand","Left-Back","1989-08-05",29,"England","Southampton FC","Premier League","2019/2020",2019
+"527","Sam McQueen","Left-Back","1995-02-06",24,"England","Southampton FC","Premier League","2019/2020",2019
+"528","Jake Vokins","Left-Back","2000-03-17",19,"England","Southampton FC","Premier League","2019/2020",2019
+"529","Cédric Soares","Right-Back","1991-08-31",27,"Portugal","Southampton FC","Premier League","2019/2020",2019
+"530","Kyle Walker-Peters","Right-Back","1997-04-13",22,"England","Southampton FC","Premier League","2019/2020",2019
+"531","Yan Valery","Right-Back","1999-02-22",20,"France","Southampton FC","Premier League","2019/2020",2019
+"532","Pierre-Emile Höjbjerg","Defensive Midfield","1995-08-05",23,"Denmark","Southampton FC","Premier League","2019/2020",2019
+"533","Oriol Romeu","Defensive Midfield","1991-09-24",27,"Spain","Southampton FC","Premier League","2019/2020",2019
+"534","James Ward-Prowse","Central Midfield","1994-11-01",24,"England","Southampton FC","Premier League","2019/2020",2019
+"535","Callum Slattery","Central Midfield","1999-02-08",20,"England","Southampton FC","Premier League","2019/2020",2019
+"536","Alexandre Jankewitz","Central Midfield","2001-12-25",17,"Switzerland","Southampton FC","Premier League","2019/2020",2019
+"537","Will Smallbone","Central Midfield","2000-02-21",19,"Ireland","Southampton FC","Premier League","2019/2020",2019
+"538","Stuart Armstrong","Attacking Midfield","1992-03-30",27,"Scotland","Southampton FC","Premier League","2019/2020",2019
+"539","Jake Hesketh","Attacking Midfield","1996-03-27",23,"England","Southampton FC","Premier League","2019/2020",2019
+"540","Jacob Maddox","Attacking Midfield","1998-11-03",20,"England","Southampton FC","Premier League","2019/2020",2019
+"541","Nathan Redmond","Left Winger","1994-03-06",25,"England","Southampton FC","Premier League","2019/2020",2019
+"542","Moussa Djenepo","Left Winger","1998-06-15",21,"Mali","Southampton FC","Premier League","2019/2020",2019
+"543","Mohamed Elyounoussi","Left Winger","1994-08-04",24,"Norway","Southampton FC","Premier League","2019/2020",2019
+"544","Sofiane Boufal","Left Winger","1993-09-17",25,"Morocco","Southampton FC","Premier League","2019/2020",2019
+"545","Will Ferry","Left Winger","2000-12-07",18,"Ireland","Southampton FC","Premier League","2019/2020",2019
+"546","Nathan Tella","Right Winger","1999-07-05",19,"England","Southampton FC","Premier League","2019/2020",2019
+"547","Danny Ings","Centre-Forward","1992-07-23",26,"England","Southampton FC","Premier League","2019/2020",2019
+"548","Che Adams","Centre-Forward","1996-07-13",22,"England","Southampton FC","Premier League","2019/2020",2019
+"549","Michael Obafemi","Centre-Forward","2000-07-06",18,"Ireland","Southampton FC","Premier League","2019/2020",2019
+"550","Shane Long","Centre-Forward","1987-01-22",32,"Ireland","Southampton FC","Premier League","2019/2020",2019
+"551","Dan N'Lundulu","Centre-Forward","1999-02-05",20,"England","Southampton FC","Premier League","2019/2020",2019
+"552","Vicente Guaita","Goalkeeper","1987-01-10",32,"Spain","Crystal Palace","Premier League","2019/2020",2019
+"553","Wayne Hennessey","Goalkeeper","1987-01-24",32,"Wales","Crystal Palace","Premier League","2019/2020",2019
+"554","Stephen Henderson","Goalkeeper","1988-05-02",31,"Ireland","Crystal Palace","Premier League","2019/2020",2019
+"555","Mamadou Sakho","Centre-Back","1990-02-13",29,"France","Crystal Palace","Premier League","2019/2020",2019
+"556","James Tomkins","Centre-Back","1989-03-29",30,"England","Crystal Palace","Premier League","2019/2020",2019
+"557","Gary Cahill","Centre-Back","1985-12-19",33,"England","Crystal Palace","Premier League","2019/2020",2019
+"558","Jairo Riedewald","Centre-Back","1996-09-09",22,"Netherlands","Crystal Palace","Premier League","2019/2020",2019
+"559","Scott Dann","Centre-Back","1987-02-14",32,"England","Crystal Palace","Premier League","2019/2020",2019
+"560","Ryan Inniss","Centre-Back","1995-06-05",24,"England","Crystal Palace","Premier League","2019/2020",2019
+"561","Sam Woods","Centre-Back","1998-09-11",20,"England","Crystal Palace","Premier League","2019/2020",2019
+"562","Nikola Tavares","Centre-Back","1999-01-17",20,"Croatia","Crystal Palace","Premier League","2019/2020",2019
+"563","Patrick van Aanholt","Left-Back","1990-08-29",28,"Netherlands","Crystal Palace","Premier League","2019/2020",2019
+"564","Tyrick Mitchell","Left-Back","1999-09-01",19,"England","Crystal Palace","Premier League","2019/2020",2019
+"565","Joel Ward","Right-Back","1989-10-29",29,"England","Crystal Palace","Premier League","2019/2020",2019
+"566","Martin Kelly","Right-Back","1990-04-27",29,"England","Crystal Palace","Premier League","2019/2020",2019
+"567","Luka Milivojevic","Defensive Midfield","1991-04-07",28,"Serbia","Crystal Palace","Premier League","2019/2020",2019
+"568","Cheikhou Kouyaté","Defensive Midfield","1989-12-21",29,"Senegal","Crystal Palace","Premier League","2019/2020",2019
+"569","James McArthur","Central Midfield","1987-10-07",31,"Scotland","Crystal Palace","Premier League","2019/2020",2019
+"570","Víctor Camarasa","Central Midfield","1994-05-28",25,"Spain","Crystal Palace","Premier League","2019/2020",2019
+"571","James McCarthy","Central Midfield","1990-11-12",28,"Ireland","Crystal Palace","Premier League","2019/2020",2019
+"572","Nya Kirby","Central Midfield","2000-01-31",19,"England","Crystal Palace","Premier League","2019/2020",2019
+"573","Jeffrey Schlupp","Left Midfield","1992-12-23",26,"Ghana","Crystal Palace","Premier League","2019/2020",2019
+"574","Max Meyer","Attacking Midfield","1995-09-18",23,"Germany","Crystal Palace","Premier League","2019/2020",2019
+"575","Giovanni McGregor","Attacking Midfield","1999-01-09",20,"England","Crystal Palace","Premier League","2019/2020",2019
+"576","Brandon Pierrick","Attacking Midfield","2001-12-10",17,"England","Crystal Palace","Premier League","2019/2020",2019
+"577","Wilfried Zaha","Left Winger","1992-11-10",26,"Cote d'Ivoire","Crystal Palace","Premier League","2019/2020",2019
+"578","Andros Townsend","Right Winger","1991-07-16",27,"England","Crystal Palace","Premier League","2019/2020",2019
+"579","Cenk Tosun","Centre-Forward","1991-06-07",28,"Turkey","Crystal Palace","Premier League","2019/2020",2019
+"580","Christian Benteke","Centre-Forward","1990-12-03",28,"Belgium","Crystal Palace","Premier League","2019/2020",2019
+"581","Jordan Ayew","Centre-Forward","1991-09-11",27,"Ghana","Crystal Palace","Premier League","2019/2020",2019
+"582","Connor Wickham","Centre-Forward","1993-03-31",26,"England","Crystal Palace","Premier League","2019/2020",2019
+"583","James Daly","Centre-Forward","2000-01-12",19,"England","Crystal Palace","Premier League","2019/2020",2019
+"584","John-Kymani Gordon","Centre-Forward","2003-02-13",16,"England","Crystal Palace","Premier League","2019/2020",2019
+"585","Mathew Ryan","Goalkeeper","1992-04-08",27,"Australia","Brighton & Hove Albion","Premier League","2019/2020",2019
+"586","David Button","Goalkeeper","1989-02-27",30,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"587","Jason Steele","Goalkeeper","1990-08-18",28,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"588","Lewis Dunk","Centre-Back","1991-11-21",27,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"589","Adam Webster","Centre-Back","1995-01-04",24,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"590","Shane Duffy","Centre-Back","1992-01-01",27,"Ireland","Brighton & Hove Albion","Premier League","2019/2020",2019
+"591","Dan Burn","Centre-Back","1992-05-09",27,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"592","Leon Balogun","Centre-Back","1988-06-28",31,"Nigeria","Brighton & Hove Albion","Premier League","2019/2020",2019
+"593","Warren O'Hora","Centre-Back","1999-04-19",20,"Ireland","Brighton & Hove Albion","Premier League","2019/2020",2019
+"594","Haydon Roberts","Centre-Back","2002-05-10",17,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"595","Bernardo","Left-Back","1995-05-14",24,"Brazil","Brighton & Hove Albion","Premier League","2019/2020",2019
+"596","Gaëtan Bong","Left-Back","1988-04-25",31,"Cameroon","Brighton & Hove Albion","Premier League","2019/2020",2019
+"597","Alex Cochrane","Left-Back","2000-04-21",19,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"598","Martín Montoya","Right-Back","1991-04-14",28,"Spain","Brighton & Hove Albion","Premier League","2019/2020",2019
+"599","Tariq Lamptey","Right-Back","2000-09-30",18,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"600","Ezequiel Schelotto","Right-Back","1989-05-23",30,"Italy","Brighton & Hove Albion","Premier League","2019/2020",2019
+"601","Archie Davies","Right-Back","1998-10-07",20,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"602","Romaric Yapi","Right-Back","2000-07-13",18,"France","Brighton & Hove Albion","Premier League","2019/2020",2019
+"603","Tudor Baluta","Defensive Midfield","1999-03-27",20,"Romania","Brighton & Hove Albion","Premier League","2019/2020",2019
+"604","Davy Pröpper","Central Midfield","1991-09-02",27,"Netherlands","Brighton & Hove Albion","Premier League","2019/2020",2019
+"605","Yves Bissouma","Central Midfield","1996-08-30",22,"Mali","Brighton & Hove Albion","Premier League","2019/2020",2019
+"606","Aaron Mooy","Central Midfield","1990-09-15",28,"Australia","Brighton & Hove Albion","Premier League","2019/2020",2019
+"607","Dale Stephens","Central Midfield","1989-06-12",30,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"608","Steven Alzate","Central Midfield","1998-09-08",20,"Colombia","Brighton & Hove Albion","Premier League","2019/2020",2019
+"609","Beram Kayal","Central Midfield","1988-05-02",31,"Israel","Brighton & Hove Albion","Premier League","2019/2020",2019
+"610","Max Sanders","Central Midfield","1999-01-04",20,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"611","Jordan Davies","Central Midfield","1998-08-18",20,"Wales","Brighton & Hove Albion","Premier League","2019/2020",2019
+"612","Taylor Richards","Central Midfield","2000-12-04",18,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"613","Teddy Jenks","Central Midfield","2002-03-12",17,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"614","Jack Spong","Central Midfield","2002-02-04",17,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"615","Solly March","Left Midfield","1994-07-20",24,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"616","Alexis Mac Allister","Attacking Midfield","1998-12-24",20,"Argentina","Brighton & Hove Albion","Premier League","2019/2020",2019
+"617","Pascal Groß","Attacking Midfield","1991-06-15",28,"Germany","Brighton & Hove Albion","Premier League","2019/2020",2019
+"618","Soufyan Ahannach","Attacking Midfield","1995-09-09",23,"Netherlands","Brighton & Hove Albion","Premier League","2019/2020",2019
+"619","Leandro Trossard","Left Winger","1994-12-04",24,"Belgium","Brighton & Hove Albion","Premier League","2019/2020",2019
+"620","José Izquierdo","Left Winger","1992-07-07",26,"Colombia","Brighton & Hove Albion","Premier League","2019/2020",2019
+"621","Peter Gwargis","Left Winger","2000-09-04",18,"Sweden","Brighton & Hove Albion","Premier League","2019/2020",2019
+"622","Alireza Jahanbakhsh","Right Winger","1993-08-11",25,"Iran","Brighton & Hove Albion","Premier League","2019/2020",2019
+"623","Ryan Longman","Right Winger","2000-11-06",18,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"624","Neal Maupay","Centre-Forward","1996-08-14",22,"France","Brighton & Hove Albion","Premier League","2019/2020",2019
+"625","Jürgen Locadia","Centre-Forward","1993-11-07",25,"Netherlands","Brighton & Hove Albion","Premier League","2019/2020",2019
+"626","Aaron Connolly","Centre-Forward","2000-01-28",19,"Ireland","Brighton & Hove Albion","Premier League","2019/2020",2019
+"627","Florin Andone","Centre-Forward","1993-04-11",26,"Romania","Brighton & Hove Albion","Premier League","2019/2020",2019
+"628","Glenn Murray","Centre-Forward","1983-09-25",35,"England","Brighton & Hove Albion","Premier League","2019/2020",2019
+"629","Bojan Radulovic","Centre-Forward","1999-12-29",19,"Serbia","Brighton & Hove Albion","Premier League","2019/2020",2019
+"630","Nick Pope","Goalkeeper","1992-04-19",27,"England","Burnley FC","Premier League","2019/2020",2019
+"631","Joe Hart","Goalkeeper","1987-04-19",32,"England","Burnley FC","Premier League","2019/2020",2019
+"632","Bailey Peacock-Farrell","Goalkeeper","1996-10-29",22,"Northern Ireland","Burnley FC","Premier League","2019/2020",2019
+"633","Adam Legzdins","Goalkeeper","1986-11-28",32,"England","Burnley FC","Premier League","2019/2020",2019
+"634","Lukas Jensen","Goalkeeper","1999-03-18",20,"Denmark","Burnley FC","Premier League","2019/2020",2019
+"635","James Tarkowski","Centre-Back","1992-11-19",26,"England","Burnley FC","Premier League","2019/2020",2019
+"636","Ben Mee","Centre-Back","1989-09-21",29,"England","Burnley FC","Premier League","2019/2020",2019
+"637","Ben Gibson","Centre-Back","1993-01-15",26,"England","Burnley FC","Premier League","2019/2020",2019
+"638","Kevin Long","Centre-Back","1990-08-18",28,"Ireland","Burnley FC","Premier League","2019/2020",2019
+"639","Jimmy Dunne","Centre-Back","1997-10-19",21,"Ireland","Burnley FC","Premier League","2019/2020",2019
+"640","Bobby Thomas","Centre-Back","2001-01-30",18,"England","Burnley FC","Premier League","2019/2020",2019
+"641","Charlie Taylor","Left-Back","1993-09-18",25,"England","Burnley FC","Premier League","2019/2020",2019
+"642","Erik Pieters","Left-Back","1988-08-07",30,"Netherlands","Burnley FC","Premier League","2019/2020",2019
+"643","Anthony Driscoll-Glennon","Left-Back","1999-11-26",19,"England","Burnley FC","Premier League","2019/2020",2019
+"644","Ali Koiki","Left-Back","1999-08-22",19,"England","Burnley FC","Premier League","2019/2020",2019
+"645","Matthew Lowton","Right-Back","1989-06-09",30,"England","Burnley FC","Premier League","2019/2020",2019
+"646","Phil Bardsley","Right-Back","1985-06-28",34,"Scotland","Burnley FC","Premier League","2019/2020",2019
+"647","Jack Cork","Defensive Midfield","1989-06-25",30,"England","Burnley FC","Premier League","2019/2020",2019
+"648","Ashley Westwood","Defensive Midfield","1990-04-01",29,"England","Burnley FC","Premier League","2019/2020",2019
+"649","Jeff Hendrick","Central Midfield","1992-01-31",27,"Ireland","Burnley FC","Premier League","2019/2020",2019
+"650","Josh Brownhill","Central Midfield","1995-12-19",23,"England","Burnley FC","Premier League","2019/2020",2019
+"651","Danny Drinkwater","Central Midfield","1990-03-05",29,"England","Burnley FC","Premier League","2019/2020",2019
+"652","Mace Goodridge","Central Midfield","1999-09-13",19,"England","Burnley FC","Premier League","2019/2020",2019
+"653","Josh Benson","Central Midfield","1999-12-05",19,"England","Burnley FC","Premier League","2019/2020",2019
+"654","Robbie Brady","Left Midfield","1992-01-14",27,"Ireland","Burnley FC","Premier League","2019/2020",2019
+"655","Lewis Richardson","Forward","2003-02-07",16,"England","Burnley FC","Premier League","2019/2020",2019
+"656","Dwight McNeil","Left Winger","1999-11-22",19,"England","Burnley FC","Premier League","2019/2020",2019
+"657","Jóhann Berg Gudmundsson","Right Winger","1990-10-27",28,"Iceland","Burnley FC","Premier League","2019/2020",2019
+"658","Aaron Lennon","Right Winger","1987-04-16",32,"England","Burnley FC","Premier League","2019/2020",2019
+"659","Chris Wood","Centre-Forward","1991-12-07",27,"New Zealand","Burnley FC","Premier League","2019/2020",2019
+"660","Ashley Barnes","Centre-Forward","1989-10-30",29,"England","Burnley FC","Premier League","2019/2020",2019
+"661","Jay Rodríguez","Centre-Forward","1989-07-29",29,"England","Burnley FC","Premier League","2019/2020",2019
+"662","Matej Vydra","Centre-Forward","1992-05-01",27,"Czech Republic","Burnley FC","Premier League","2019/2020",2019
+"663","Joel Mumbongo","Centre-Forward","1999-01-09",20,"Sweden","Burnley FC","Premier League","2019/2020",2019
+"664","Max Thompson","Centre-Forward","2002-02-09",17,"England","Burnley FC","Premier League","2019/2020",2019
+"665","Tom Heaton","Goalkeeper","1986-04-15",33,"England","Aston Villa","Premier League","2019/2020",2019
+"666","Lovre Kalinic","Goalkeeper","1990-04-03",29,"Croatia","Aston Villa","Premier League","2019/2020",2019
+"667","Jed Steer","Goalkeeper","1992-09-23",26,"England","Aston Villa","Premier League","2019/2020",2019
+"668","Örjan Nyland","Goalkeeper","1990-09-10",28,"Norway","Aston Villa","Premier League","2019/2020",2019
+"669","Pepe Reina","Goalkeeper","1982-08-31",36,"Spain","Aston Villa","Premier League","2019/2020",2019
+"670","Matija Sarkic","Goalkeeper","1997-07-23",21,"Montenegro","Aston Villa","Premier League","2019/2020",2019
+"671","Tyrone Mings","Centre-Back","1993-03-13",26,"England","Aston Villa","Premier League","2019/2020",2019
+"672","Björn Engels","Centre-Back","1994-09-15",24,"Belgium","Aston Villa","Premier League","2019/2020",2019
+"673","Ezri Konsa","Centre-Back","1997-10-23",21,"England","Aston Villa","Premier League","2019/2020",2019
+"674","Kortney Hause","Centre-Back","1995-07-16",23,"England","Aston Villa","Premier League","2019/2020",2019
+"675","James Chester","Centre-Back","1989-01-23",30,"Wales","Aston Villa","Premier League","2019/2020",2019
+"676","Matt Targett","Left-Back","1995-09-18",23,"England","Aston Villa","Premier League","2019/2020",2019
+"677","Neil Taylor","Left-Back","1989-02-07",30,"Wales","Aston Villa","Premier League","2019/2020",2019
+"678","Frédéric Guilbert","Right-Back","1994-12-24",24,"France","Aston Villa","Premier League","2019/2020",2019
+"679","Ahmed Elmohamady","Right-Back","1987-09-09",31,"Egypt","Aston Villa","Premier League","2019/2020",2019
+"680","James Bree","Right-Back","1997-12-11",21,"England","Aston Villa","Premier League","2019/2020",2019
+"681","Kaine Kesler","Right-Back","2003-05-25",16,"England","Aston Villa","Premier League","2019/2020",2019
+"682","Douglas Luiz","Defensive Midfield","1998-05-09",21,"Brazil","Aston Villa","Premier League","2019/2020",2019
+"683","Marvelous Nakamba","Defensive Midfield","1994-01-19",25,"Zimbabwe","Aston Villa","Premier League","2019/2020",2019
+"684","John McGinn","Central Midfield","1994-10-18",24,"Scotland","Aston Villa","Premier League","2019/2020",2019
+"685","Conor Hourihane","Central Midfield","1991-02-02",28,"Ireland","Aston Villa","Premier League","2019/2020",2019
+"686","Danny Drinkwater","Central Midfield","1990-03-05",29,"England","Aston Villa","Premier League","2019/2020",2019
+"687","Henri Lansbury","Central Midfield","1990-10-12",28,"England","Aston Villa","Premier League","2019/2020",2019
+"688","Aaron Tshibola","Central Midfield","1995-01-02",24,"DR Congo","Aston Villa","Premier League","2019/2020",2019
+"689","Jacob Ramsey","Attacking Midfield","2001-05-28",18,"England","Aston Villa","Premier League","2019/2020",2019
+"690","Jack Grealish","Left Winger","1995-09-10",23,"England","Aston Villa","Premier League","2019/2020",2019
+"691","Andre Green","Left Winger","1998-07-26",20,"England","Aston Villa","Premier League","2019/2020",2019
+"692","Indiana Vassilev","Left Winger","2001-02-16",18,"United States","Aston Villa","Premier League","2019/2020",2019
+"693","Trezeguet","Right Winger","1994-10-01",24,"Egypt","Aston Villa","Premier League","2019/2020",2019
+"694","Anwar El Ghazi","Right Winger","1995-05-03",24,"Netherlands","Aston Villa","Premier League","2019/2020",2019
+"695","Jota Peleteiro","Right Winger","1991-06-16",28,"Spain","Aston Villa","Premier League","2019/2020",2019
+"696","Wesley","Centre-Forward","1996-11-26",22,"Brazil","Aston Villa","Premier League","2019/2020",2019
+"697","Mbwana Samatta","Centre-Forward","1992-12-23",26,"Tanzania","Aston Villa","Premier League","2019/2020",2019
+"698","Jonathan Kodjia","Centre-Forward","1989-10-22",29,"Cote d'Ivoire","Aston Villa","Premier League","2019/2020",2019
+"699","Borja Bastón","Centre-Forward","1992-08-25",26,"Spain","Aston Villa","Premier League","2019/2020",2019
+"700","Keinan Davis","Centre-Forward","1998-02-13",21,"England","Aston Villa","Premier League","2019/2020",2019
+"701","Rushian Hepburn-Murphy","Centre-Forward","1998-08-28",20,"England","Aston Villa","Premier League","2019/2020",2019
+"702","Cameron Archer","Centre-Forward","2001-07-21",17,"England","Aston Villa","Premier League","2019/2020",2019
+"703","Tim Krul","Goalkeeper","1988-04-03",31,"Netherlands","Norwich City","Premier League","2019/2020",2019
+"704","Ralf Fährmann","Goalkeeper","1988-09-27",30,"Germany","Norwich City","Premier League","2019/2020",2019
+"705","Michael McGovern","Goalkeeper","1984-07-12",34,"Northern Ireland","Norwich City","Premier League","2019/2020",2019
+"706","Archie Mair","Goalkeeper","2001-02-10",18,"Scotland","Norwich City","Premier League","2019/2020",2019
+"707","Ben Godfrey","Centre-Back","1998-01-15",21,"England","Norwich City","Premier League","2019/2020",2019
+"708","Christoph Zimmermann","Centre-Back","1993-01-12",26,"Germany","Norwich City","Premier League","2019/2020",2019
+"709","Grant Hanley","Centre-Back","1991-11-20",27,"Scotland","Norwich City","Premier League","2019/2020",2019
+"710","Timm Klose","Centre-Back","1988-05-09",31,"Switzerland","Norwich City","Premier League","2019/2020",2019
+"711","Sean Raggett","Centre-Back","1994-04-17",25,"England","Norwich City","Premier League","2019/2020",2019
+"712","Akin Famewo","Centre-Back","1998-11-09",20,"England","Norwich City","Premier League","2019/2020",2019
+"713","Jamal Lewis","Left-Back","1998-01-25",21,"Northern Ireland","Norwich City","Premier League","2019/2020",2019
+"714","Philip Heise","Left-Back","1991-06-20",28,"Germany","Norwich City","Premier League","2019/2020",2019
+"715","Sam McCallum","Left-Back","2000-09-02",18,"England","Norwich City","Premier League","2019/2020",2019
+"716","Max Aarons","Right-Back","2000-01-04",19,"England","Norwich City","Premier League","2019/2020",2019
+"717","Sam Byram","Right-Back","1993-09-16",25,"England","Norwich City","Premier League","2019/2020",2019
+"718","Jordan Thomas","Right-Back","2001-01-02",18,"England","Norwich City","Premier League","2019/2020",2019
+"719","Ibrahim Amadou","Defensive Midfield","1993-04-06",26,"France","Norwich City","Premier League","2019/2020",2019
+"720","Tom Trybull","Defensive Midfield","1993-03-09",26,"Germany","Norwich City","Premier League","2019/2020",2019
+"721","Alexander Tettey","Defensive Midfield","1986-04-04",33,"Norway","Norwich City","Premier League","2019/2020",2019
+"722","Louis Thompson","Defensive Midfield","1994-12-19",24,"Wales","Norwich City","Premier League","2019/2020",2019
+"723","Kenny McLean","Central Midfield","1992-01-08",27,"Scotland","Norwich City","Premier League","2019/2020",2019
+"724","Lukas Rupp","Central Midfield","1991-01-08",28,"Germany","Norwich City","Premier League","2019/2020",2019
+"725","Moritz Leitner","Central Midfield","1992-12-08",26,"Germany","Norwich City","Premier League","2019/2020",2019
+"726","Mario Vrancic","Central Midfield","1989-05-23",30,"Bosnia-Herzegovina","Norwich City","Premier League","2019/2020",2019
+"727","Daniel Adshead","Central Midfield","2001-09-02",17,"England","Norwich City","Premier League","2019/2020",2019
+"728","Todd Cantwell","Left Midfield","1998-02-27",21,"England","Norwich City","Premier League","2019/2020",2019
+"729","Ondrej Duda","Attacking Midfield","1994-12-05",24,"Slovakia","Norwich City","Premier League","2019/2020",2019
+"730","Marco Stiepermann","Attacking Midfield","1991-02-09",28,"Germany","Norwich City","Premier League","2019/2020",2019
+"731","Onel Hernández","Left Winger","1993-02-01",26,"Cuba","Norwich City","Premier League","2019/2020",2019
+"732","Josh Martin","Left Winger","2001-09-09",17,"England","Norwich City","Premier League","2019/2020",2019
+"733","Emiliano Buendía","Right Winger","1996-12-25",22,"Argentina","Norwich City","Premier League","2019/2020",2019
+"734","Patrick Roberts","Right Winger","1997-02-05",22,"England","Norwich City","Premier League","2019/2020",2019
+"735","Teemu Pukki","Centre-Forward","1990-03-29",29,"Finland","Norwich City","Premier League","2019/2020",2019
+"736","Josip Drmic","Centre-Forward","1992-08-08",26,"Switzerland","Norwich City","Premier League","2019/2020",2019
+"737","Adam Idah","Centre-Forward","2001-02-11",18,"Ireland","Norwich City","Premier League","2019/2020",2019
+"738","Dennis Srbeny","Centre-Forward","1994-05-05",25,"Germany","Norwich City","Premier League","2019/2020",2019
+"739","Carlton Morris","Centre-Forward","1995-12-16",23,"England","Norwich City","Premier League","2019/2020",2019
+"740","Mason Bloomfield","Centre-Forward","1996-11-06",22,"England","Norwich City","Premier League","2019/2020",2019
+"741","Dean Henderson","Goalkeeper","1997-03-12",22,"England","Sheffield United","Premier League","2019/2020",2019
+"742","Michael Verrips","Goalkeeper","1996-12-03",22,"Netherlands","Sheffield United","Premier League","2019/2020",2019
+"743","Simon Moore","Goalkeeper","1990-05-19",29,"England","Sheffield United","Premier League","2019/2020",2019
+"744","Jake Eastwood","Goalkeeper","1996-10-03",22,"England","Sheffield United","Premier League","2019/2020",2019
+"745","Jack O'Connell","Centre-Back","1994-03-29",25,"England","Sheffield United","Premier League","2019/2020",2019
+"746","John Egan","Centre-Back","1992-10-20",26,"Ireland","Sheffield United","Premier League","2019/2020",2019
+"747","Panagiotis Retsos","Centre-Back","1998-08-09",20,"Greece","Sheffield United","Premier League","2019/2020",2019
+"748","Chris Basham","Centre-Back","1988-07-20",30,"England","Sheffield United","Premier League","2019/2020",2019
+"749","Richard Stearman","Centre-Back","1987-08-19",31,"England","Sheffield United","Premier League","2019/2020",2019
+"750","Phil Jagielka","Centre-Back","1982-08-17",36,"England","Sheffield United","Premier League","2019/2020",2019
+"751","Ben Heneghan","Centre-Back","1993-09-19",25,"England","Sheffield United","Premier League","2019/2020",2019
+"752","Kean Bryan","Centre-Back","1996-11-01",22,"England","Sheffield United","Premier League","2019/2020",2019
+"753","Enda Stevens","Left-Back","1990-07-09",28,"Ireland","Sheffield United","Premier League","2019/2020",2019
+"754","Jack Robinson","Left-Back","1993-09-01",25,"England","Sheffield United","Premier League","2019/2020",2019
+"755","George Baldock","Right-Back","1993-03-09",26,"England","Sheffield United","Premier League","2019/2020",2019
+"756","Kieron Freeman","Right-Back","1992-03-21",27,"Wales","Sheffield United","Premier League","2019/2020",2019
+"757","Sander Berge","Defensive Midfield","1998-02-14",21,"Norway","Sheffield United","Premier League","2019/2020",2019
+"758","Muhamed Besic","Defensive Midfield","1992-09-10",26,"Bosnia-Herzegovina","Sheffield United","Premier League","2019/2020",2019
+"759","Jack Rodwell","Defensive Midfield","1991-03-11",28,"England","Sheffield United","Premier League","2019/2020",2019
+"760","John Lundstram","Central Midfield","1994-02-18",25,"England","Sheffield United","Premier League","2019/2020",2019
+"761","John Fleck","Central Midfield","1991-08-24",27,"Scotland","Sheffield United","Premier League","2019/2020",2019
+"762","Oliver Norwood","Central Midfield","1991-04-12",28,"Northern Ireland","Sheffield United","Premier League","2019/2020",2019
+"763","Ben Osborn","Left Midfield","1994-08-05",24,"England","Sheffield United","Premier League","2019/2020",2019
+"764","Luke Freeman","Attacking Midfield","1992-03-22",27,"England","Sheffield United","Premier League","2019/2020",2019
+"765","Ravel Morrison","Attacking Midfield","1993-02-02",26,"Jamaica","Sheffield United","Premier League","2019/2020",2019
+"766","Callum Robinson","Left Winger","1995-02-02",24,"Ireland","Sheffield United","Premier League","2019/2020",2019
+"767","Ricky Holmes","Left Winger","1987-06-20",32,"England","Sheffield United","Premier League","2019/2020",2019
+"768","Nathan Thomas","Left Winger","1994-09-27",24,"England","Sheffield United","Premier League","2019/2020",2019
+"769","Lys Mousset","Centre-Forward","1996-02-08",23,"France","Sheffield United","Premier League","2019/2020",2019
+"770","Oliver McBurnie","Centre-Forward","1996-06-04",23,"Scotland","Sheffield United","Premier League","2019/2020",2019
+"771","Billy Sharp","Centre-Forward","1986-02-05",33,"England","Sheffield United","Premier League","2019/2020",2019
+"772","David McGoldrick","Centre-Forward","1987-11-29",31,"Ireland","Sheffield United","Premier League","2019/2020",2019
+"773","Richairo Zivkovic","Centre-Forward","1996-09-05",22,"Netherlands","Sheffield United","Premier League","2019/2020",2019
+"774","Leon Clarke","Centre-Forward","1985-02-10",34,"England","Sheffield United","Premier League","2019/2020",2019
