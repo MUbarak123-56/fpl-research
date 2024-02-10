@@ -11,7 +11,9 @@ import seaborn as sns; sns.set(rc={'axes.facecolor':(0,0,0,0), 'figure.facecolor
 import time
 
 @st.cache_data()
-df = pd.read_excel("../data/fpl_data/full_df.xlsx")
+def data_load():
+    df = pd.read_excel("../data/fpl_data/full_df.xlsx")
+    return df
 
 def run():
     st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
@@ -23,7 +25,8 @@ def run():
     + "the data from the fantasy premier league app(FPL).</h5>", unsafe_allow_html=True)
     st.markdown("<h5 style='text-align: left; color: white;'>We analyzed team results to make prediction on the outcome of future games. We used the players' scores"
     " from the fantasy premier league app to visualize the ability of each player from the start to the end of each season (2021-2024).</h5>", unsafe_allow_html=True)
-    st.write("Hello World")
+    new_data = df
+    st.dataframe(new_data.head())
     
 
 if __name__ == '__main__':
