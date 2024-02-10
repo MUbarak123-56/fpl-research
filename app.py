@@ -14,7 +14,8 @@ import time
 def run():
     st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
     
-    st.markdown("<h2 style='text-align: center; color: white;'>Soccer Maestros in England</h2>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: white;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
+    st.write("Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk")
     st.header("Introduction")
     st.write("Hello World")
     
