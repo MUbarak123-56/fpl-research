@@ -17,6 +17,7 @@ def run():
     st.markdown("<h1 style='text-align: center; color: white;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
     st.markdown("<h5 style='text-align: center; color: white;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
     st.header("Introduction")
+    st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes data from the English Premier League Soccer</h5>", unsafe_allow_html=True)
     st.write("Hello World")
     
 
