@@ -11,7 +11,7 @@ import pandas as pd
 
 import time
 
-st.image("fpl_icon.png", width = 100)
+st.image("fpl_icon.png", width = 300)
 #@st.cache_data()
 #def data_load():
 df = pd.read_excel("data/fpl_data/full_df.xlsx")
