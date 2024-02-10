@@ -29,7 +29,7 @@ def generate_response(input_file, input_query):
 # Input widgets
 uploaded_file = st.file_uploader('Upload a CSV or Excel file', type=['csv', 'xlsx'])
 question_list = [
-  'Who had the highest number of points on GW 38 in the 2022/23 season?",
+  'Who had the highest number of points on GW 38 in the 2022/23 season?',
   'Other']
 query_text = st.selectbox('Select an example query:', question_list, disabled=not uploaded_file)
 openai_api_key = st.text_input('OpenAI API Key', type='password', disabled=not (uploaded_file and query_text))
