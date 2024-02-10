@@ -11,7 +11,7 @@ import seaborn as sns; sns.set(rc={'axes.facecolor':(0,0,0,0), 'figure.facecolor
 import time
 
 @st.cache_data()
-df = pd.read_excel("../data/fpl_data/full_df")
+df = pd.read_excel("../data/fpl_data/full_df.xlsx")
 
 def run():
     st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
