@@ -7,8 +7,8 @@ from langchain.agents import create_pandas_dataframe_agent
 from langchain.agents.agent_types import AgentType
 
 # Page title
-st.set_page_config(page_title='🦜🔗 Ask the Data App')
-st.title('🦜🔗 Ask the Data App')
+st.set_page_config(page_title='FPL Analyst')
+st.write("Welcome to the FPL analyst page
 
 # Load CSV file
 def load_csv(input_csv):
@@ -46,4 +46,4 @@ if openai_api_key.startswith('sk-') and (uploaded_file is not None):
   st.header('Output')
   generate_response(uploaded_file, query_text)
 #st.page_link("https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst", label="FPL Analyst", icon="⚽")
-st.link_button("Have a chat with FPL Analyst", "https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst")
+st.link_button("Have a chat with our custom-made FPL Analyst on GPT", "https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst")
