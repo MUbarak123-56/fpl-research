@@ -27,8 +27,8 @@ st.image("fpl_icon.png", width = 200)
 #df = pd.read_excel("data/fpl_data/full_df.xlsx")
  #   return df
 
-st.markdown("<h1 style='text-align: center; color: white;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: white;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: center;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
 st.header("Introduction")
 st.write("""
     Welcome to "Soccer Maestros in England," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
