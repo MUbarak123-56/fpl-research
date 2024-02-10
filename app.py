@@ -39,10 +39,6 @@ st.write("""
     """)
 st.subheader("Analyzing Premier League Outcomes and FPL Data")
     
-    # Introduction
-st.write("""Our project analyzes Premier League games, focusing on data from both sides' last 5 games, including form, expected goals scored, and expected goals conceded. We delve into data from previous seasons (2021-2024), comparing real match results with Fantasy Premier League (FPL) app performance scores. Our findings highlight a correlation between real results and FPL scores, albeit not perfect, showcasing that some teams perform differently in reality compared to their FPL metrics.
-""")
-    
     # Data Preparation and Analysis
 st.header("Data Preparation and Analysis")
 st.write("""For our analysis, we compiled data from various sources, focusing on team performance metrics and individual player scores from the FPL. This involved cleaning the data, handling missing values, and preparing features to understand the dynamics of the game outcomes and player performances.
@@ -60,9 +56,10 @@ st.write("Here, we showcase an animation of the accumulative points from the FPL
 # References Section
 st.header("References")
 st.markdown("""
-    The data used in this analysis were sourced from the following:
+    The insights presented in this project are based on data sourced from:
     - Premier League game and player performance data: [Excel For Soccer](https://www.excel4soccer.com/download/)
     - Fantasy Premier League data and analysis: [Fantasy-Premier-League on GitHub](https://github.com/vaastav/Fantasy-Premier-League)
+    - Building an "Ask the Data" app with LangChain: [Streamlit Blog Post](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/)
     """)
 st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes data from the English Premier League Soccer. We used both actual teams results and"
     + "the data from the fantasy premier league app(FPL).</h5>", unsafe_allow_html=True)
