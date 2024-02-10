@@ -4,9 +4,8 @@ from langchain.chat_models import ChatOpenAI
 from langchain.agents import create_pandas_dataframe_agent
 from langchain.agents.agent_types import AgentType
 
-# Page title
 st.set_page_config(page_title='FPL Data Analyst')
-#st.title('🦜🔗 Ask the Data App')
+st.markdown("<h5 style='text-align: center;'>Hey There, Soccer Friends. Load your FPL data for GPT to analyze.</h5>", unsafe_allow_html=True)
 
 def load_file(input_file):
   if input_file.name[-4:] == ".csv":
