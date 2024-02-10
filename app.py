@@ -17,7 +17,10 @@ def run():
     st.markdown("<h1 style='text-align: center; color: white;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
     st.markdown("<h5 style='text-align: center; color: white;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
     st.header("Introduction")
-    st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes data from the English Premier League Soccer</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='text-align: left; color: white;'>Our project analyzes data from the English Premier League Soccer. We used both actual teams results and the
+    data from the fantasy premier league app.(FPL)</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='text-align: left; color: white;'>We analyzed team results to make prediction on the outcome of future games. We used the players' scores
+     from the fantasy premier league app to visualize the ability of each player from the start to the end of each season (2021-2024).</h5>", unsafe_allow_html=True)
     st.write("Hello World")
     
 
