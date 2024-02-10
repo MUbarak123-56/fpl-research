@@ -11,7 +11,7 @@ import pandas as pd
 
 import time
 
-st.image("fpl_action.png", width = 300)
+st.image("fpl_action.png", width = 300, use_column_width=True)
 #@st.cache_data()
 #def data_load():
 #@st.cache_data()
