@@ -43,4 +43,4 @@ if openai_api_key.startswith('sk-') and (uploaded_file is not None):
   st.header('Output')
   generate_response(uploaded_file, query_text)
   
-st.link_button("You can also have a chat with our custom-made FPL Analyst on GPT", "https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst")
+st.link_button("You can also have a chat with our custom-made FPL Analyst on GPT here", "https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst")
