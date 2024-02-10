@@ -14,7 +14,7 @@ import time
 st.image("fpl_icon.png", width = 300)
 #@st.cache_data()
 #def data_load():
-@st.cache_data()
+#@st.cache_data()
 df = pd.read_excel("data/fpl_data/full_df.xlsx")
  #   return df
 
