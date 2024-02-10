@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("Hello World")
+st.page_link("https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst", label="FPL Analyst", icon="⚽")
