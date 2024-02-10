@@ -12,6 +12,14 @@ import pandas as pd
 import time
 
 st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
+
+if st.button("Home"):
+    st.switch_page("app.py")
+if st.button("Business Inelligence"):
+    st.switch_page("pages/business_intelligence.py")
+if st.button("Fantasy League Analyst"):
+    st.switch_page("pages/fpl_analyst.py")
+ 
 st.image("fpl_icon.png", width = 200)
 #@st.cache_data()
 #def data_load():
