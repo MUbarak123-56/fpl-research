@@ -22,6 +22,13 @@ st.image("fpl_icon.png", width = 200)
 st.markdown("<h1 style='text-align: center; color: white;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center; color: white;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
 st.header("Introduction")
+st.write("""
+    Welcome to "Soccer Maestros in England," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
+    
+    The Premier League, known for its intensity and unpredictability, offers a rich dataset for analysis. By examining data from the latest seasons, including the ongoing 2023-2024 season, our goal is to uncover patterns, trends, and anomalies that lie beneath the surface. We leverage data from actual match outcomes and the Fantasy Premier League (FPL) app, a platform that scores player performances weekly, to draw comparisons and contrasts that reveal more than just the scoreline.
+    
+    From analyzing team forms and expected goals to exploring the intricate relationship between real match results and FPL performance scores, our project seeks to provide fans, analysts, and enthusiasts with insights that enhance their understanding and appreciation of the league. Whether you're a die-hard supporter, a fantasy league competitor, or simply a lover of soccer, "Soccer Maestros in England" invites you to explore the numbers behind the drama, the strategies, and the sheer unpredictability that make the Premier League one of the most exciting sports leagues in the world.
+    """)
 st.subheader("Analyzing Premier League Outcomes and FPL Data")
     
     # Introduction
