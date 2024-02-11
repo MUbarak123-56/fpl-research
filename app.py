@@ -34,7 +34,7 @@ def add_bg(image_file):
          """,
          unsafe_allow_html=True
          )
-add_bg("grey_ball.jpg") 
+add_bg("new_pattern.jpg") 
 
  
 st.image("fpl_icon.png", width = 200)
