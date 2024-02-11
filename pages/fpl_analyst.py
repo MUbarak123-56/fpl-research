@@ -11,7 +11,7 @@ st.sidebar.header("FPL Analyst 🤖")
 from st_pages import Page, add_page_title, show_pages
 
 #show_pages(
-    [
+  #  [
  #       Page("app.py", "Home", "🏠"),
   #      Page("pages/business_intelligence.py","Business Intelligence", "📰"),
   #      Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
