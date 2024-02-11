@@ -140,6 +140,8 @@ st.markdown("""
     """)
 #new_data = data_load()
 #st.dataframe(df.head())
+
+st.write("For more information, check out github repo below. 👇")
     
 
 #if __name__ == '__main__':
