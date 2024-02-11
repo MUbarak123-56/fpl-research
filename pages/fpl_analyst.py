@@ -3,7 +3,7 @@ import pandas as pd
 import base64
 
 st.set_page_config(page_title='FPL Data Analyst')
-st.markdown("<h1 style='text-align: center;'>📈 📊 Welcome to the FPL GPT Analyst</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL GPT Analyst</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center;'>Hey There, Soccer Friends. Click the link below to chat with our FPL Data Analyst.</h6>", unsafe_allow_html=True)
 def add_bg(image_file):
         with open(image_file, "rb") as image_file:
