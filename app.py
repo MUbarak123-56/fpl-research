@@ -33,8 +33,7 @@ def add_bg(image_file):
          """,
          unsafe_allow_html=True
          )
-    
- add_bg("soccer_pattern.jpg") 
+add_bg("soccer_pattern.jpg") 
 
  
 st.image("fpl_icon.png", width = 200)
