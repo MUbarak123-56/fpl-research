@@ -12,21 +12,21 @@ from io import BytesIO
 import base64
 import time
 
-st.set_page_config(layout='wide', page_title = "FPL Soccer Intelligence", page_icon="⚽")
+#st.set_page_config(layout='wide', page_title = "FPL Soccer Intelligence", page_icon="⚽")
 
 from st_pages import Page, add_page_title, show_pages
 
-#show_pages(
-#    [
-#        Page("app.py", "Home", "🏠"),
+show_pages(
+    [
+        Page("app.py", "Home", "🏠"),
         # Can use :<icon-name>: or the actual icon
-#        Page("pages/business_intelligence.py", "Business Intelligence", "📰"),
+        Page("pages/business_intelligence.py", "Business Intelligence", "📰"),
         # The pages appear in the order you pass them
- #       Page("pages/fpl_analyst.py", "FPL GPT Analyst", "🤖"),
- #   ]
-#)
+        Page("pages/fpl_analyst.py", "FPL GPT Analyst", "🤖"),
+    ]
+)
 
-#add_page_title()
+add_page_title()
 
 from st_pages import show_pages_from_config
 
