@@ -58,17 +58,19 @@ st.write("""
 
 st.header("Business Intelligence")
 st.write("""
-         We use Tableau, a business intelligence platform to visualize the data from the FPL app scores and the actual Premier League table. 
+         We use Tableau, a business intelligence platform to visualize players' performance points according to the Fantasy Premier League app 
+         and the overall team performance represented by the actual Premier League table. 
          It is divided into three parts as followed:
          """)
 
 # FPL Timeline Analysis
-st.subheader("1. FPL Timeline Analysis")
+st.subheader("1. FPL performance points Timeline Analysis")
 st.write("""
-         This section presents an in-depth look at the evolution of FPL points across seasons, 
-         starting from 2020 to the current season. It features a dynamic line graph that illustrates the 
-         accumulation of points by players according to their positions on the field—Defenders (DEF), 
-         Forwards (FWD), Goalkeepers (GK), and Midfielders (MID). The visualization highlights trends, 
+         This section is a dynamic line graph that represents the progress of accumulative performance points of all premier league players.
+         There is a slider for the users to inspect the total performance points at any specific time.
+         The graph contains data across 4 seasons from 2020 to the current season; they are separated into four graphs that you can select from the drop-down menu.
+         There is also another drop-down menu that allows users to select only some positions to compare the performance of players in specific positions: 
+         Defenders (DEF), Forwards (FWD), Goalkeepers (GK), and Midfielders (MID). The visualization highlights trends, 
          patterns, and anomalies over time, providing insights into player performance and consistency.
          """)
 
