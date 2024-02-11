@@ -98,7 +98,7 @@ st.write("""
          It showcases a bar chart listing players by their accrued FPL points, revealing the standout performers. 
          The interface includes club logos, suggesting interactive elements that allow users to filter rankings by team. 
          This real-time leaderboard is instrumental for identifying top players in the particular Premier League season.
-         There is a slider, a drop-down menu to select the season, and a filter to select interested positions that work similarly to the ones in Timeline Analysis
+         There is a slider, a drop-down menu to select the season, and a filter to select interested positions that work similarly to the ones in the Timeline Analysis.
          """)
 
 # FPL and Premier League Comparison
