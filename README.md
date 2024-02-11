@@ -28,6 +28,19 @@ In our third section, we investigate the correlation between total FPL points of
 ## FPL Analyst Chatbot
 FPL Analyst is a specialized version of ChatGPT designed to assist users in selecting players for their Fantasy Premier League (FPL) teams. It operates by providing recommendations for player selection based on a detailed analysis of historical performance data and the most recent trade information within and outside the Premier League. Utilizing a custom dataset, FPL Analyst offers personalized advice by examining patterns, player statistics, match outcomes from previous games, and the latest transfer activities. This enables users to make informed decisions for their fantasy teams. FPL Analyst guides users in understanding player strengths, weaknesses, overall impact on past matches, and implications of recent transfers. It ensures users have the insights needed to select the most effective players for their fantasy teams. The advice provided by FPL Analyst is grounded in detailed data analysis, focusing on helping users optimize their FPL strategies and improve their standings in the league.
 
+## Tools and Technologies
+- Python
+- Jupyter Notebooks
+- Tableau
+- GitHub
+- Streamlit Cloud
+- Open AI's GPT Builder
+
+## Resources
+- Tableau Public Dashboard - [FPL Business Intelligence](https://public.tableau.com/app/profile/nitipon.trimaitreepituk/viz/FPLAnalysis_17075790032410/FPLTimeline)
+- Streamlit App - [Soccer Maestro](https://soccer-maestros.streamlit.app/)
+- GPT Builder App - [FPL Analyst]()
+
 ## References
 The insights presented in this project are based on data sourced from:
 
