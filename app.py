@@ -26,12 +26,7 @@ show_pages(
     ]
 )
 
-with st.expander("Show documentation"):
-    st.help(show_pages)
-
-    st.help(Page)
-
-    st.help(add_page_title)
+add_page_title()
 #if st.button("Home"):
 #    st.switch_page("app.py")
 #if st.button("Business Inelligence"):
