@@ -27,5 +27,5 @@ def add_bg(image_file):
         
 add_bg("new_pattern.jpg") 
 
-st.markdown("<h6 style='text-align: left;'>Hey There, Soccer Friends. Click the link below 👇 to chat with our FPL Data Analyst.</h6>", unsafe_allow_html=True)
+st.markdown("<h6 style='text-align: left;'>Hey There, Soccer Friends. Click the link below 👇 to chat with our FPL Analyst.</h6>", unsafe_allow_html=True)
 st.link_button("Click here to interact with FPL Analyst.", "https://chat.openai.com/g/g-OxrmR8wbw-fpl-analyst")
