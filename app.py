@@ -97,17 +97,18 @@ st.write("""
          The FPL Ranking tab offers a current-season snapshot of individual player rankings within the FPL. 
          It showcases a bar chart listing players by their accrued FPL points, revealing the standout performers. 
          The interface includes club logos, suggesting interactive elements that allow users to filter rankings by team. 
-         This real-time leaderboard is instrumental for identifying top players and potential transfers within the FPL.
+         This real-time leaderboard is instrumental for identifying top players in the particular FPL season.
+         There is a slider, a drop-down menu to select the season, and a filter to select interested positions that work similarly to the ones in Timeline Analysis
          """)
 
 # FPL and Premier League Comparison
 st.subheader("3. FPL and Premier League Comparison")
 st.write("""
-         In our third section, we investigate the correlation between FPL points and actual Premier League team performance. 
+         In our third section, we investigate the correlation between total FPL points of all the players in the team and the actual Premier League team performance. 
          Using a scatter plot juxtaposed with team badges against their league positions, we analyze whether FPL points are 
          indicative of a team's capacity to excel in the Premier League. This analysis underscores the complexity of football 
          performance metrics, showing that FPL points, while reflective of individual prowess, do not always correspond to a 
-         team's league success.
+         team's league success. It is also possible that some teams with high total FPL points, but with low Premier League ranking perform inconsistently.
          """)
 
 # Add your Tableau embed code or Streamlit components to display the visualizations
