@@ -4,16 +4,17 @@ import base64
 
 #st.set_page_config(layout='wide')
 st.set_page_config(layout='wide', page_title = "FPL Business Intelligence Report", page_icon="📰")
+st.sidebar.header("Business Intelligence 📰")
 #from st_pages import add_page_title
-from st_pages import Page, add_page_title, show_pages
+#from st_pages import Page, add_page_title, show_pages
 
-show_pages(
-    [
-        Page("app.py", "Home", "🏠"),
-        Page("pages/business_intelligence.py","Business Intelligence", "📰"),
-        Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
-    ]
-)
+#show_pages(
+#    [
+#        Page("app.py", "Home", "🏠"),
+#        Page("pages/business_intelligence.py","Business Intelligence", "📰"),
+#        Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
+#    ]
+#)
 #add_page_title(layout="wide")
 st.markdown("<h2 style='text-align: center;'>📰 FPL Business Intelligence Report</h2>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>For a great viewing experience, please use dark mode to view this app.</h6>", unsafe_allow_html=True)
