@@ -19,6 +19,23 @@ st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
 #    st.switch_page("pages/business_intelligence.py")
 #if st.button("Fantasy League Analyst"):
 #    st.switch_page("pages/fpl_analyst.py")
+def add_bg(image_file):
+        with open(image_file, "rb") as image_file:
+            encoded_string = base64.b64encode(image_file.read())
+        st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url(data:image/{"png"};base64,{encoded_string.decode()});
+            background-size: cover;}}
+         }}
+         </style>
+         """,
+         unsafe_allow_html=True
+         )
+    
+ add_bg("soccer_pattern.jpg") 
+
  
 st.image("fpl_icon.png", width = 200)
 #@st.cache_data()
