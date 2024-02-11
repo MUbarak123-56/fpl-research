@@ -39,7 +39,7 @@ FPL Analyst is a specialized version of ChatGPT designed to assist users in sele
 ## Resources
 - Tableau Public Dashboard - [FPL Business Intelligence](https://public.tableau.com/app/profile/nitipon.trimaitreepituk/viz/FPLAnalysis_17075790032410/FPLTimeline)
 - Streamlit App - [Soccer Maestro](https://soccer-maestros.streamlit.app/)
-- GPT Builder App - [FPL Analyst]()
+- GPT Builder App - [FPL Analyst](https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst)
 
 ## References
 The insights presented in this project are based on data sourced from:
