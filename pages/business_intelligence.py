@@ -3,7 +3,7 @@ import streamlit as st
 import base64
 
 #st.set_page_config(layout='wide')
-#st.set_page_config(layout='wide', page_title = "FPL Business Intelligence Report", page_icon="📰")
+st.set_page_config(layout='wide', page_title = "FPL Business Intelligence Report", page_icon="📰")
 from st_pages import add_page_title
 
 add_page_title(layout="wide")
