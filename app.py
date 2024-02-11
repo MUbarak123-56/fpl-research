@@ -63,6 +63,8 @@ add_bg("new_pattern.jpg")
 
 st.markdown("<h1 style='text-align: center;'>⚽ FPL Soccer Intelligence</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
+st.markdown("<h7 style='text-align: center; color: red;'>for a great viewing experience, please use dark mode to view this app.</h7>", unsafe_allow_html=True)
+
 st.header("Introduction")
 st.write("""
     Welcome to "FPL Soccer Intelligence," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
