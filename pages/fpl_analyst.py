@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import base64
 
 st.set_page_config(page_title='FPL Data Analyst')
 st.markdown("<h1 style='text-align: center;'>📈 📊 Welcome to the FPL Data Analyst</h1>", unsafe_allow_html=True)
