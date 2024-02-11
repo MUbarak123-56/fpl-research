@@ -2,7 +2,7 @@ import streamlit.components.v1 as components
 import streamlit as st
 
 st.set_page_config(layout='wide')
-st.markdown("<h2 style='text-align: center;'>FPL Business Intelligence Report.</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>FPL Business Intelligence Report</h2>", unsafe_allow_html=True)
 
 #st.header("FPL Business Intelligence Report")
 #st.set_page_config(theme="light")
