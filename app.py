@@ -26,6 +26,17 @@ show_pages(
     ]
 )
 
+st.markdown(
+    """
+<style>
+    [data-testid="stSidebar"] span:first-child { {
+        width: initial !important;
+    }
+</style>
+    """,
+    unsafe_allow_html=True,
+)
+
 #add_page_title(layout="wide")
 
 from st_pages import show_pages_from_config
