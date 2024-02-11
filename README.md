@@ -13,13 +13,13 @@ Our project seeks to provide fans, analysts, and enthusiasts with insights that 
 ## Business Intelligence
 We use Tableau, a business intelligence platform to visualize players' performance points according to the Fantasy Premier League app and the overall team performance represented by the actual Premier League table. It is divided into three parts as followed:
 
-# 1. FPL performance points Timeline Analysis
+### 1. FPL performance points Timeline Analysis
 This section is a dynamic line graph that represents the progress of accumulative performance points of all premier league players in a season. There is a slider for the users to inspect the total performance points at any specific time. The graph contains data across 4 seasons from 2020 to the current season; they are separated into four graphs that you can select from the drop-down menu. There is also another drop-down menu that allows users to select only some positions to compare the performance of players in specific positions: Defenders (DEF), Forwards (FWD), Goalkeepers (GK), and Midfielders (MID). The visualization highlights trends, patterns, and anomalies over time, providing insights into player performance and consistency.
 
-# 2. FPL Ranking Insights
+### 2. FPL Ranking Insights
 The FPL Ranking tab offers a current-season snapshot of individual player rankings within the FPL. It showcases a bar chart listing players by their accrued FPL points, revealing the standout performers. The interface includes club logos, suggesting interactive elements that allow users to filter rankings by team. This real-time leaderboard is instrumental for identifying top players in the particular Premier League season. There is a slider, a drop-down menu to select the season, and a filter to select interested positions that work similarly to the ones in the Timeline Analysis.
 
-# 3. FPL and Premier League Comparison
+### 3. FPL and Premier League Comparison
 In our third section, we investigate the correlation between total FPL points of all the players in the team and the actual Premier League team performance. Using a scatter plot juxtaposed with team badges against their league positions, we analyze whether FPL points are indicative of a team's capacity to excel in the Premier League. This analysis underscores the complexity of football performance metrics, showing that FPL points, while reflective of individual prowess, do not always correspond to a team's league success. It is also possible that some teams with high total FPL points, but with low Premier League ranking perform inconsistently.
 
 ## FPL Analyst Chatbot
