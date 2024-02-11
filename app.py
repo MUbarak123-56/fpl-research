@@ -141,7 +141,8 @@ st.markdown("""
 #new_data = data_load()
 #st.dataframe(df.head())
 
-st.write("For more information, check out github repo below. 👇")
+st.write("For more information, check out GitHub repo below. 👇")
+st.link_button("GitHub Repo", "https://github.com/MUbarak123-56/fpl-research")
     
 
 #if __name__ == '__main__':
