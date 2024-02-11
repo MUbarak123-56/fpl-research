@@ -26,7 +26,7 @@ show_pages(
     ]
 )
 
-add_page_title()
+#add_page_title()
 
 from st_pages import show_pages_from_config
 
