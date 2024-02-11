@@ -5,7 +5,7 @@ import base64
 st.set_page_config(layout='wide')
 st.markdown("<h2 style='text-align: center;'>📰 FPL Business Intelligence Report</h2>", unsafe_allow_html=True)
 
-st.write("Welcome to the FPL Business Reporting page. Using the dashboard below, you will be able to see different ways within which Fantasy Premier League has been explored. Be sure to scroll through the tabs, and view in full screen for the ultimate viewing experience.")
+st.write("Welcome to the FPL Business Reporting page. Using the dashboard below, you will be able to see different ways within which Fantasy Premier League data has been explored. Be sure to scroll through the tabs, and view in full screen for the ultimate viewing experience.")
 
 def add_bg(image_file):
         with open(image_file, "rb") as image_file:
