@@ -1,4 +1,4 @@
-# Team FPL: Soccer Maestros in England
+# Team FPL: FPL Soccer Intelligence
 
 <img src = "fpl_icon.png" width = 150 height = 150/>
 
@@ -7,11 +7,11 @@
 - Nitipon 'Tony' Trimaitreepituk
 
 ## Introduction
-Welcome to "Soccer Maestros in England," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
+Welcome to "FPL Soccer Intelligence," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
 
 The Premier League, known for its intensity and unpredictability, offers a rich dataset for analysis. By examining data from the latest seasons, including the ongoing 2023-2024 season, our goal is to explore trends that lie beneath the surface. We leverage data from lesague outcomes and the Fantasy Premier League (FPL) app, a platform that scores player performances weekly, to draw comparisons and contrasts that reveal more than just the scoreline.
 
-Our project seeks to provide fans, analysts, and enthusiasts with insights that enhance their understanding and appreciation of the league. Whether you're a die-hard supporter, a fantasy league competitor, or simply a lover of soccer, "Soccer Maestros in England" invites you to explore the numbers behind the drama, the strategies, and the sheer unpredictability that make the Premier League one of the most exciting sports leagues in the world.
+Our project seeks to provide fans, analysts, and enthusiasts with insights that enhance their understanding and appreciation of the league. Whether you're a die-hard supporter, a fantasy league competitor, or simply a lover of soccer, "FPL Soccer Intelligence" invites you to explore the numbers behind the drama, the strategies, and the sheer unpredictability that make the Premier League one of the most exciting sports leagues in the world.
 
 ## Business Intelligence
 We use Tableau, a business intelligence platform to visualize players' performance points according to the Fantasy Premier League app and the overall team performance represented by the actual Premier League table. It is divided into three parts as followed:
