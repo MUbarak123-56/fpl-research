@@ -1,8 +1,6 @@
-# Team FPL
+# Team FPL: Soccer Maestros in England
 
 <img src = "fpl_icon.png" width = 150 height = 150/>
-## Project Name
-Soccer Maestros in England
 
 ## Authors
 - Mubarak Ganiyu
