@@ -64,6 +64,7 @@ add_bg("new_pattern.jpg")
 st.markdown("<h1 style='text-align: center;'>⚽ FPL Soccer Intelligence</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>For a great viewing experience, please use dark mode to view this app.</h6>", unsafe_allow_html=True)
+st.markdown("<h6 style='text-align: center; color: red;'>Use the sidebar to navigate to other pages.</h6>", unsafe_allow_html=True)
 
 st.header("Introduction")
 st.write("""
