@@ -1,5 +1,6 @@
 import streamlit.components.v1 as components
 import streamlit as st
+import base64
 
 st.set_page_config(layout='wide')
 st.markdown("<h2 style='text-align: center;'>📰 FPL Business Intelligence Report</h2>", unsafe_allow_html=True)
