@@ -41,7 +41,7 @@ We believe that the next steps would entail working hand-in-hand with the Fantas
 
 ## Resources
 - Tableau Public Dashboard - [FPL Business Intelligence](https://public.tableau.com/app/profile/nitipon.trimaitreepituk/viz/FPLAnalysis_17075790032410/FPLTimeline)
-- Streamlit App - [Soccer Maestro](https://soccer-maestros.streamlit.app/)
+- Streamlit App - [FPL Soccer Intelligence](https://soccer-maestros.streamlit.app/)
 - GPT Builder App - [FPL Analyst](https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst)
 
 ## References
