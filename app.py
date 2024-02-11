@@ -12,7 +12,7 @@ from io import BytesIO
 import base64
 import time
 
-st.set_page_config(layout='wide', page_title = "FPL Soccer Intelligence", page_icon="⚽")
+#st.set_page_config(layout='wide', page_title = "FPL Soccer Intelligence", page_icon="⚽")
 
 from st_pages import Page, add_page_title, show_pages
 
@@ -26,7 +26,7 @@ show_pages(
     ]
 )
 
-#add_page_title()
+add_page_title(layout="wide")
 
 from st_pages import show_pages_from_config
 
