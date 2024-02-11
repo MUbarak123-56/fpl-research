@@ -3,9 +3,9 @@ import pandas as pd
 import base64
 from st_pages import add_page_title
 
-add_page_title(layout="wide")
+
 #st.set_page_config(page_title='FPL Analyst')
-#st.set_page_config(layout='wide', page_title = "FPL Analyst", page_icon="🤖")
+st.set_page_config(layout='wide', page_title = "FPL Analyst", page_icon="🤖")
 st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL Analyst Chatbot</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>For a great viewing experience, please use dark mode to view this app.</h6>", unsafe_allow_html=True)
 
