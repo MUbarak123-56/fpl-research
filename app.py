@@ -54,7 +54,7 @@ st.write("""
     
     Our project seeks to provide fans, analysts, and enthusiasts with insights that enhance their understanding and appreciation of the league. Whether you're a die-hard supporter, a fantasy league competitor, or simply a lover of soccer, "Soccer Maestros in England" invites you to explore the numbers behind the drama, the strategies, and the sheer unpredictability that make the Premier League one of the most exciting sports leagues in the world.
     """)
-st.subheader("Analyzing Premier League Outcomes and FPL Data")
+#st.subheader("Analyzing Premier League Outcomes and FPL Data")
     
     # Data Preparation and Analysis
 st.header("Data Preparation and Analysis")
