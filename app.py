@@ -118,7 +118,7 @@ st.write("""
 # Ensure you replace 'YourVizName/DashboardName' with the actual path to your Tableau visualization
 
 
-st.header("FPL Analysis")
+st.header("FPL Analyst Chatbot")
 
     # Data Preparation and Analysis
 st.header("Data Preparation and Analysis")
