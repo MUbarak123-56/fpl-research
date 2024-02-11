@@ -119,9 +119,8 @@ st.write("""
 
 
 st.header("FPL Analyst Chatbot")
-st.write("FPL Analyst is a specialized version of ChatGPT designed to assist users in selecting players for their Fantasy Premier League (FPL) teams. It operates by providing recommendations for player selection based on a detailed analysis of historical performance data and the most recent trade information within and outside the Premier League. Utilizing a custom dataset, FPL Analyst offers personalized advice by examining patterns, player statistics, match outcomes from previous games, and the latest transfer activities. This enables users to make informed decisions for their fantasy teams.
-
-FPL Analyst guides users in understanding player strengths, weaknesses, overall impact on past matches, and implications of recent transfers. It ensures users have the insights needed to select the most effective players for their fantasy teams. The advice provided by FPL Analyst is grounded in detailed data analysis, focusing on helping users optimize their FPL strategies and improve their standings in the league.")
+st.write("""FPL Analyst is a specialized version of ChatGPT designed to assist users in selecting players for their Fantasy Premier League (FPL) teams. It operates by providing recommendations for player selection based on a detailed analysis of historical performance data and the most recent trade information within and outside the Premier League. Utilizing a custom dataset, FPL Analyst offers personalized advice by examining patterns, player statistics, match outcomes from previous games, and the latest transfer activities. This enables users to make informed decisions for their fantasy teams.
+            FPL Analyst guides users in understanding player strengths, weaknesses, overall impact on past matches, and implications of recent transfers. It ensures users have the insights needed to select the most effective players for their fantasy teams. The advice provided by FPL Analyst is grounded in detailed data analysis, focusing on helping users optimize their FPL strategies and improve their standings in the league.""")
 
 # References Section
 st.header("References")
