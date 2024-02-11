@@ -18,7 +18,7 @@ def add_bg(image_file):
          """,
          unsafe_allow_html=True
          )
-add_bg("../new_pattern.jpg") 
+add_bg("new_pattern.jpg") 
 
 #st.header("FPL Business Intelligence Report")
 #st.set_page_config(theme="light")
