@@ -5,6 +5,7 @@ from langchain.agents import create_pandas_dataframe_agent
 from langchain.agents.agent_types import AgentType
 
 st.set_page_config(page_title='FPL Data Analyst')
+st.markdown("<h1 style='text-align: center;'>Welcome to the FPL Data Analyst</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>Hey There, Soccer Friends. Load your FPL data for GPT to analyze.</h5>", unsafe_allow_html=True)
 
 def load_file(input_file):
