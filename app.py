@@ -37,7 +37,7 @@ def add_bg(image_file):
 add_bg("new_pattern.jpg") 
 
  
-st.image("fpl_icon.png", width = 200)
+#st.image("fpl_icon.png", width = 200)
 #@st.cache_data()
 #def data_load():
 #@st.cache_data()
