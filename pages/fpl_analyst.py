@@ -21,4 +21,4 @@ def add_bg(image_file):
          )
         
 add_bg("new_pattern.jpg") 
-st.link_button("Click here to be redirected to a new page.", "https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst")
+st.link_button("Click here to be redirected to a new page.", "https://chat.openai.com/g/g-OxrmR8wbw-fpl-analyst")
