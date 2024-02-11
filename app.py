@@ -120,19 +120,6 @@ st.write("""
 
 st.header("FPL Analyst Chatbot")
 
-    # Data Preparation and Analysis
-st.header("Data Preparation and Analysis")
-st.write("""For our analysis, we compiled data from various sources, focusing on team performance metrics and individual player scores from the FPL. This involved cleaning the data, handling missing values, and preparing features to understand the dynamics of the game outcomes and player performances.
-""")
-    
-
-#st.header("FPL Performance Analysis")
-#st.write("""We compared the real match outcomes with the performance scores assigned by the FPL app, identifying discrepancies and patterns. This analysis helps in understanding how individual player performances correlate with the overall team success in the league.
-#""")
-    
-# Weekly FPL Points Animation (Placeholder)
-st.header("Weekly FPL Points Animation")
-st.write("Here, we showcase an animation of the accumulative points from the FPL app received by each player, updated Oon a game to game basis. This visualization highlights the top-performing players throughout the season.")
 
 # References Section
 st.header("References")
