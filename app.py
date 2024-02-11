@@ -8,7 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns; sns.set(rc={'axes.facecolor':(0,0,0,0), 'figure.facecolor':(0,0,0,0)})
 import pandas as pd
-
+from io import BytesIO
+import base64
 import time
 
 st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
