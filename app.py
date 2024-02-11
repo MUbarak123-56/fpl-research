@@ -44,7 +44,7 @@ st.image("fpl_icon.png", width = 200)
 #df = pd.read_excel("data/fpl_data/full_df.xlsx")
  #   return df
 
-st.markdown("<h1 style='text-align: center;'>Soccer Maestros in England</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>⚽ Soccer Maestros in England</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>Authors: Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk</h5>", unsafe_allow_html=True)
 st.header("Introduction")
 st.write("""
