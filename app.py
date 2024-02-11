@@ -79,7 +79,7 @@ st.write("""
 # FPL Timeline Analysis
 st.subheader("1. FPL performance points Timeline Analysis")
 st.write("""
-         This section is a dynamic line graph that represents the progress of accumulative performance points of all premier league players.
+         This section is a dynamic line graph that represents the progress of accumulative performance points of all premier league players in a season.
          There is a slider for the users to inspect the total performance points at any specific time.
          The graph contains data across 4 seasons from 2020 to the current season; they are separated into four graphs that you can select from the drop-down menu.
          There is also another drop-down menu that allows users to select only some positions to compare the performance of players in specific positions: 
