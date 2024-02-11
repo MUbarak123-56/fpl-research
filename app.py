@@ -57,6 +57,45 @@ st.write("""
 #st.subheader("Analyzing Premier League Outcomes and FPL Data")
 
 st.header("Business Intelligence")
+st.write("""
+         We use Tableau, a business intelligence platform to visualize the data from the FPL app scores and the actual Premier League table. 
+         It is divided into three parts as followed:
+         """)
+
+# FPL Timeline Analysis
+st.subheader("1. FPL Timeline Analysis")
+st.write("""
+         This section presents an in-depth look at the evolution of FPL points across seasons, 
+         starting from 2020 to the current season. It features a dynamic line graph that illustrates the 
+         accumulation of points by players according to their positions on the field—Defenders (DEF), 
+         Forwards (FWD), Goalkeepers (GK), and Midfielders (MID). The visualization highlights trends, 
+         patterns, and anomalies over time, providing insights into player performance and consistency.
+         """)
+
+# FPL Ranking Insights
+st.subheader("2. FPL Ranking Insights")
+st.write("""
+         The FPL Ranking tab offers a current-season snapshot of individual player rankings within the FPL. 
+         It showcases a bar chart listing players by their accrued FPL points, revealing the standout performers. 
+         The interface includes club logos, suggesting interactive elements that allow users to filter rankings by team. 
+         This real-time leaderboard is instrumental for identifying top players and potential transfers within the FPL.
+         """)
+
+# FPL and Premier League Comparison
+st.subheader("3. FPL and Premier League Comparison")
+st.write("""
+         In our third section, we investigate the correlation between FPL points and actual Premier League team performance. 
+         Using a scatter plot juxtaposed with team badges against their league positions, we analyze whether FPL points are 
+         indicative of a team's capacity to excel in the Premier League. This analysis underscores the complexity of football 
+         performance metrics, showing that FPL points, while reflective of individual prowess, do not always correspond to a 
+         team's league success.
+         """)
+
+# Add your Tableau embed code or Streamlit components to display the visualizations
+# For example:
+# st.tableau_chart("https://public.tableau.com/views/YourVizName/DashboardName")
+
+# Ensure you replace 'YourVizName/DashboardName' with the actual path to your Tableau visualization
 
 
 st.header("FPL Analysis")
