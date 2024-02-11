@@ -14,6 +14,19 @@ import time
 
 st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
 
+from st_pages import Page, add_page_title, show_pages
+
+"## Declaring the pages in your app:"
+
+show_pages(
+    [
+        Page("app.py", "Home", "🏠"),
+        # Can use :<icon-name>: or the actual icon
+        Page("pages/business_intelligence.py", "Business Intelligence", "📰"),
+        # The pages appear in the order you pass them
+        Page("pages/fpl_analyst.py", "FPL GPT Analyst", "🤖"),
+    ]
+)
 #if st.button("Home"):
 #    st.switch_page("app.py")
 #if st.button("Business Inelligence"):
