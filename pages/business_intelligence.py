@@ -9,4 +9,4 @@ st.markdown("<h2 style='text-align: center;'>FPL Business Intelligence Report.</
 HtmlFile = open("fpl.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read() 
 print(source_code)
-components.html(source_code, width = 1600, height = 900)
+components.html(source_code, width = 1500, height = 800)
