@@ -16,8 +16,6 @@ st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
 
 from st_pages import Page, add_page_title, show_pages
 
-"## Declaring the pages in your app:"
-
 show_pages(
     [
         Page("app.py", "Home", "🏠"),
@@ -27,6 +25,13 @@ show_pages(
         Page("pages/fpl_analyst.py", "FPL GPT Analyst", "🤖"),
     ]
 )
+
+with st.expander("Show documentation"):
+    st.help(show_pages)
+
+    st.help(Page)
+
+   # st.help(add_page_title)
 #if st.button("Home"):
 #    st.switch_page("app.py")
 #if st.button("Business Inelligence"):
