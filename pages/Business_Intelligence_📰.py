@@ -16,7 +16,7 @@ st.sidebar.header("Business Intelligence 📰")
 #    ]
 #)
 #add_page_title(layout="wide")
-st.markdown("<h2 style='text-align: center;'>📰 FPL Business Intelligence Report</h2>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>📰 FPL Business Intelligence Report</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>For a great viewing experience, please use dark mode to view this app.</h6>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>Use the sidebar to navigate to other pages.</h6>", unsafe_allow_html=True)
 
