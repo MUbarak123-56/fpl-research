@@ -40,9 +40,9 @@ We believe that the next steps would entail working hand-in-hand with the Fantas
 - Open AI's GPT Builder
 
 ## Resources
-- Tableau Public Dashboard - [FPL Business Intelligence](https://public.tableau.com/app/profile/nitipon.trimaitreepituk/viz/FPLAnalysis_17075790032410/FPLTimeline)
-- Streamlit App - [FPL Soccer Intelligence](https://soccer-maestros.streamlit.app/)
-- GPT Builder App - [FPL Analyst](https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst)
+- Tableau Public Dashboard - [FPL Business Intelligence Reporting](https://public.tableau.com/app/profile/nitipon.trimaitreepituk/viz/FPLAnalysis_17075790032410/FPLTimeline)
+- Streamlit App - [FPL Soccer Intelligence App](https://soccer-maestros.streamlit.app/)
+- GPT Builder App - [FPL Analyst Chatbot](https://chat.openai.com/g/g-OxrmR8wbw-fantasy-league-analyst)
 
 ## References
 The insights presented in this project are based on data sourced from:
