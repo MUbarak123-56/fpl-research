@@ -6,15 +6,17 @@ from st_pages import add_page_title
 
 #st.set_page_config(page_title='FPL Analyst')
 st.set_page_config(layout='wide', page_title = "FPL Analyst", page_icon="🤖")
+st.sidebar.header("FPL Analyst 🤖")
+
 from st_pages import Page, add_page_title, show_pages
 
-show_pages(
+#show_pages(
     [
-        Page("app.py", "Home", "🏠"),
-        Page("pages/business_intelligence.py","Business Intelligence", "📰"),
-        Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
-    ]
-)
+ #       Page("app.py", "Home", "🏠"),
+  #      Page("pages/business_intelligence.py","Business Intelligence", "📰"),
+  #      Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
+  #  ]
+#)
 st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL Analyst Chatbot</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>For a great viewing experience, please use dark mode to view this app.</h6>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>Use the sidebar to navigate to other pages.</h6>", unsafe_allow_html=True)
