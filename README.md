@@ -1,3 +1,3 @@
 # Team FPL
 
-<img src = "fpl_icon.png" width = 300 height = 150/>
+<img src = "fpl_icon.png" width = 150 height = 150/>
