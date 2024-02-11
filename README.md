@@ -1,9 +1,9 @@
 # Team FPL
 
 <img src = "fpl_icon.png" width = 150 height = 150/>
-# Project name:
+## Project name
 ⚽ Soccer Maestros in England
-# Authors:
+## Authors
 Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk
 ## Introduction
 Welcome to "Soccer Maestros in England," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
