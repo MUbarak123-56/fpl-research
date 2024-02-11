@@ -10,11 +10,9 @@ from st_pages import Page, add_page_title, show_pages
 
 show_pages(
     [
-        Page("app.py", name="Home",icon= "🏠"),
-        # Can use :<icon-name>: or the actual icon
-        Page("pages/business_intelligence.py",name= "Business Intelligence", icon="📰"),
-        # The pages appear in the order you pass them
-        Page("pages/fpl_analyst.py", name="FPL Analyst", icon="🤖"),
+        Page("app.py", "Home", "🏠"),
+        Page("pages/business_intelligence.py","Business Intelligence", "📰"),
+        Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
     ]
 )
 st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL Analyst Chatbot</h1>", unsafe_allow_html=True)
