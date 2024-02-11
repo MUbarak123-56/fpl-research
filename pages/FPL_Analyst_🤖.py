@@ -17,7 +17,7 @@ from st_pages import Page, add_page_title, show_pages
   #      Page("pages/fpl_analyst.py", "FPL Analyst", "🤖"),
   #  ]
 #)
-st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL Analyst Chatbot</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🤖 Welcome to the FPL Analyst Chatbot</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>For a great viewing experience, please use dark mode to view this app.</h6>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: red;'>Use the sidebar to navigate to other pages.</h6>", unsafe_allow_html=True)
 
