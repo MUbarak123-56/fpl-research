@@ -1,0 +1,14 @@
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = ":house:"
+
+[[pages]]
+path = "pages/business_intelligence.py"
+name = "Business Intelligence"
+icon = "📰"
+
+[[pages]]
+path = "pages/fpl_analyst.py"
+name = "FPL GPT Analyst"
+icon = "🤖"
