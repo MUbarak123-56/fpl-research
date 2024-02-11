@@ -2,8 +2,9 @@ import streamlit as st
 import pandas as pd
 import base64
 
-st.set_page_config(page_title='FPL Analyst')
-st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL Analyst</h1>", unsafe_allow_html=True)
+#st.set_page_config(page_title='FPL Analyst')
+st.set_page_config(layout='wide', page_title = "FPL Analyst", page_icon="🤖📈")
+st.markdown("<h1 style='text-align: center;'>📈 🤖 Welcome to the FPL Analyst Chatbot</h1>", unsafe_allow_html=True)
 
 st.write("Our chatbot was built using GPT Builder by ingesting FPL data for it to understand while drawing insights from current trends in the Premier League and soccer world. It is designed to assist users with having the best FPL experience by recommending how they can craft their team. This apps focuses heavily on historical performance for recommendation. It is still in its beta testing phase and might not be fully accurate.")
 def add_bg(image_file):
