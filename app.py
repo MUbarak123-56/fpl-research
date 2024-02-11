@@ -38,7 +38,7 @@ st.markdown(
 
 from st_pages import show_pages_from_config
 
-show_pages_from_config()
+#show_pages_from_config()
 #if st.button("Home"):
 #    st.switch_page("app.py")
 #if st.button("Business Inelligence"):
