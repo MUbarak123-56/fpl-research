@@ -12,7 +12,7 @@ from io import BytesIO
 import base64
 import time
 
-st.set_page_config(layout='wide', page_title = "Soccer Maestros in England")
+st.set_page_config(layout='wide', page_title = "Soccer Maestros in England", page_icon="⚽")
 
 from st_pages import Page, add_page_title, show_pages
 
