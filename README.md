@@ -5,7 +5,7 @@
 ⚽ Soccer Maestros in England
 ## Authors
 Mubarak Ganiyu, Nitipon 'Tony' Trimaitreepituk
-## Business Intelligence
+## Introduction
 Welcome to "Soccer Maestros in England," a comprehensive analysis project that delves deep into the heart of English Premier League soccer. Our journey begins with the vibrant and competitive spirit of the league, where every game is a story, and every player, a potential maestro orchestrating moments of magic on the pitch. This project is born out of a passion for the beautiful game and a curiosity to understand the dynamics that govern team performances and player contributions through data-driven insights.
 
 The Premier League, known for its intensity and unpredictability, offers a rich dataset for analysis. By examining data from the latest seasons, including the ongoing 2023-2024 season, our goal is to explore trends that lie beneath the surface. We leverage data from lesague outcomes and the Fantasy Premier League (FPL) app, a platform that scores player performances weekly, to draw comparisons and contrasts that reveal more than just the scoreline.
