@@ -48,4 +48,4 @@ We believe that the next steps would entail working hand-in-hand with the Fantas
 The insights presented in this project are based on data sourced from:
 
 - Premier League game and player performance data: [Excel For Soccer](https://www.excel4soccer.com/download/)
-- Fantasy Premier League data and analysis: [Fantasy-Premier-League on GitHub](https://github.com/vaastav/Fantasy-Premier-League)
+- Vaastav's FPL Historical Data: [Fantasy-Premier-League on GitHub](https://github.com/vaastav/Fantasy-Premier-League)
