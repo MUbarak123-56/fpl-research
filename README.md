@@ -49,9 +49,3 @@ The insights presented in this project are based on data sourced from:
 
 - Premier League game and player performance data: [Excel For Soccer](https://www.excel4soccer.com/download/)
 - Fantasy Premier League data and analysis: [Fantasy-Premier-League on GitHub](https://github.com/vaastav/Fantasy-Premier-League)
-- @misc{anand2016fantasypremierleague,
-  title = {{FPL Historical Dataset}},
-  author = {Anand, Vaastav},
-  year = {2024},
-  howpublished = {Retrieved February 2024 from \url{https://github.com/vaastav/Fantasy-Premier-League/}}
-}
